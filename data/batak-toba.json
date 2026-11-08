@@ -1,0 +1,3657 @@
+{
+ "id": "batak-toba",
+ "nama": "Batak Toba",
+ "rumpun": "batak",
+ "labelKelompok": "marga",
+ "versiData": 3,
+ "fiktif": false,
+ "divalidasi": false,
+ "daerahVarian": [],
+ "marga": [
+  {
+   "id": "ambarita",
+   "nama": "Ambarita",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "aritonang",
+   "nama": "Aritonang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "aruan",
+   "nama": "Aruan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "bakara",
+   "nama": "Bakara",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "banjarnahor",
+   "nama": "Banjarnahor",
+   "indukId": "marbun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "banurea",
+   "nama": "Banurea",
+   "ejaanLain": [
+    "Banuarea"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "baringbing",
+   "nama": "Baringbing",
+   "ejaanLain": [
+    "Barimbing"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "baruara",
+   "nama": "Baruara",
+   "indukId": "tambun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "batuara",
+   "nama": "Batuara",
+   "ejaanLain": [
+    "Sibatuara"
+   ],
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "batubara",
+   "nama": "Batubara",
+   "ejaanLain": [
+    "Datubara"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "berasa",
+   "nama": "Berasa",
+   "ejaanLain": [
+    "Barasa"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "beringin",
+   "nama": "Beringin",
+   "ejaanLain": [
+    "Baringin"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "berutu",
+   "nama": "Berutu",
+   "ejaanLain": [
+    "Barutu"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "bondar",
+   "nama": "Bondar",
+   "indukId": "pasaribu",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "buaton",
+   "nama": "Buaton",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "butarbutar",
+   "nama": "Butarbutar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "capah",
+   "nama": "Capah",
+   "ejaanLain": [
+    "Capa"
+   ],
+   "indukId": "ginting",
+   "catatan": "Marga ini juga dikenal di suku lain: Karo, Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "damuntei",
+   "nama": "Damuntei",
+   "ejaanLain": [
+    "Damunthei"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun. Catatan sumber: Sama dengan marga Munte/Munthe, ; Submarga Saragih.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "daulay",
+   "nama": "Daulay",
+   "ejaanLain": [
+    "Daulae"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "debataraja",
+   "nama": "Debataraja",
+   "indukId": "simamora",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "doloksaribu",
+   "nama": "Doloksaribu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "gajah",
+   "nama": "Gajah",
+   "ejaanLain": [
+    "Gaja"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "gajahmanik",
+   "nama": "Gajahmanik",
+   "ejaanLain": [
+    "Gajamanik"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "ginting",
+   "nama": "Ginting",
+   "luarModul": true,
+   "catatan": "Marga suku Karo, dicantumkan hanya karena menjadi induk submarga di Toba.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "gorat",
+   "nama": "Gorat",
+   "indukId": "pasaribu",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "gultom",
+   "nama": "Gultom",
+   "indukId": "samosir",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "gurning",
+   "nama": "Gurning",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "habeahan",
+   "nama": "Habeahan",
+   "ejaanLain": [
+    "Habayahan"
+   ],
+   "indukId": "pasaribu",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "harahap",
+   "nama": "Harahap",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "harianja",
+   "nama": "Harianja",
+   "indukId": "samosir",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "haro",
+   "nama": "Haro",
+   "indukId": "rajagukguk",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "haromunte",
+   "nama": "Haromunte",
+   "indukId": "munte",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hasibuan",
+   "nama": "Hasibuan",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hasugian",
+   "nama": "Hasugian",
+   "indukId": "sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutabalian",
+   "nama": "Hutabalian",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutabarat",
+   "nama": "Hutabarat",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutagalung",
+   "nama": "Hutagalung",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutagaol",
+   "nama": "Hutagaol",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutahaean",
+   "nama": "Hutahaean",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutajulu",
+   "nama": "Hutajulu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutanamora",
+   "nama": "Hutanamora",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutapea",
+   "nama": "Hutapea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutasoit",
+   "nama": "Hutasoit",
+   "indukId": "sihombing",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutatoruan",
+   "nama": "Hutatoruan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "hutauruk",
+   "nama": "Hutauruk",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "limbong",
+   "nama": "Limbong",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lubis",
+   "nama": "Lubis",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbanbatu",
+   "nama": "Lumbanbatu",
+   "indukId": "marbun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbangaol",
+   "nama": "Lumbangaol",
+   "indukId": "marbun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbannahor",
+   "nama": "Lumbannahor",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbanpea",
+   "nama": "Lumbanpea",
+   "indukId": "tambun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbanraja",
+   "nama": "Lumbanraja",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbansiantar",
+   "nama": "Lumbansiantar",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbantobing",
+   "nama": "Lumbantobing",
+   "ejaanLain": [
+    "Tobing"
+   ],
+   "indukId": "hutatoruan",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbantoruan",
+   "nama": "Lumbantoruan",
+   "indukId": "sihombing",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "lumbantungkup",
+   "nama": "Lumbantungkup",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "maharaja",
+   "nama": "Maharaja",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "mahulae",
+   "nama": "Mahulae",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "malau",
+   "nama": "Malau",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "manalu",
+   "nama": "Manalu",
+   "indukId": "simamora",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "manihuruk",
+   "nama": "Manihuruk",
+   "ejaanLain": [
+    "Simanihuruk"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Karo, Simalungun. Catatan sumber: Dalam subetnis Karo adalah submarga Ginting ; Dalam subetnis Simalungun adalah submarga Saragih.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "manik",
+   "nama": "Manik",
+   "catatan": "Marga ini juga dikenal di suku lain: Karo, Pakpak, Simalungun. Catatan sumber: Dalam subetnis Karo adalah submarga Ginting ; dan submarga Karokaro.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "manurung",
+   "nama": "Manurung",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "marbun",
+   "nama": "Marbun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "marpaung",
+   "nama": "Marpaung",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "matondang",
+   "nama": "Matondang",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "meka",
+   "nama": "Meka",
+   "ejaanLain": [
+    "Meha"
+   ],
+   "indukId": "marbun",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "mungkur",
+   "nama": "Mungkur",
+   "ejaanLain": [
+    "Mukkur"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "munte",
+   "nama": "Munte",
+   "ejaanLain": [
+    "Munthe"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Karo, Pakpak. Catatan sumber: Dalam subetnis Karo adalah submarga Ginting.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "nababan",
+   "nama": "Nababan",
+   "indukId": "sihombing",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "nadapdap",
+   "nama": "Nadapdap",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "nadeak",
+   "nama": "Nadeak",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "nahampun",
+   "nama": "Nahampun",
+   "ejaanLain": [
+    "Anakampun"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "naibaho",
+   "nama": "Naibaho",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "naiborhu",
+   "nama": "Naiborhu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "nainggolan",
+   "nama": "Nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "naipospos",
+   "nama": "Naipospos",
+   "ejaanLain": [
+    "Pospos"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "napitu",
+   "nama": "Napitu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "napitupulu",
+   "nama": "Napitupulu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "ompusunggu",
+   "nama": "Ompusunggu",
+   "indukId": "aritonang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pakpahan",
+   "nama": "Pakpahan",
+   "indukId": "samosir",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pandiangan",
+   "nama": "Pandiangan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pane",
+   "nama": "Pane",
+   "indukId": "sitorus",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pangaribuan",
+   "nama": "Pangaribuan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "panggabean",
+   "nama": "Panggabean",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "panjaitan",
+   "nama": "Panjaitan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "parapat",
+   "nama": "Parapat",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pardede",
+   "nama": "Pardede",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pardosi",
+   "nama": "Pardosi",
+   "indukId": "siagian",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "parhusip",
+   "nama": "Parhusip",
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pasaribu",
+   "nama": "Pasaribu",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pinayungan",
+   "nama": "Pinayungan",
+   "ejaanLain": [
+    "Pinayungen"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pintubatu",
+   "nama": "Pintubatu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pohan",
+   "nama": "Pohan",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "pulungan",
+   "nama": "Pulungan",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "purba",
+   "nama": "Purba",
+   "indukId": "simamora",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rajagukguk",
+   "nama": "Rajagukguk",
+   "indukId": "aritonang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rambe",
+   "nama": "Rambe",
+   "indukId": "simamora",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "ritonga",
+   "nama": "Ritonga",
+   "indukId": "siregar",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumabutar",
+   "nama": "Rumabutar",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumagorga",
+   "nama": "Rumagorga",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumahole",
+   "nama": "Rumahole",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumahorbo",
+   "nama": "Rumahorbo",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumaijuk",
+   "nama": "Rumaijuk",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumapea",
+   "nama": "Rumapea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumasingap",
+   "nama": "Rumasingap",
+   "indukId": "silalahi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "rumasondi",
+   "nama": "Rumasondi",
+   "indukId": "silalahi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sagala",
+   "nama": "Sagala",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "saing",
+   "nama": "Saing",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "samosir",
+   "nama": "Samosir",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "saragi",
+   "nama": "Saragi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "saruksuk",
+   "nama": "Saruksuk",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sarumpaet",
+   "nama": "Sarumpaet",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sehun",
+   "nama": "Sehun",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siadari",
+   "nama": "Siadari",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siagian",
+   "nama": "Siagian",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siahaan",
+   "nama": "Siahaan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siallagan",
+   "nama": "Siallagan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sianipar",
+   "nama": "Sianipar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sianturi",
+   "nama": "Sianturi",
+   "indukId": "simatupang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sibagariang",
+   "nama": "Sibagariang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sibarani",
+   "nama": "Sibarani",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siboro",
+   "nama": "Siboro",
+   "indukId": "purba",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sibuea",
+   "nama": "Sibuea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siburian",
+   "nama": "Siburian",
+   "indukId": "simatupang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidabalok",
+   "nama": "Sidabalok",
+   "ejaanLain": [
+    "Dabalok"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidabungke",
+   "nama": "Sidabungke",
+   "ejaanLain": [
+    "Sidabukke"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidabutar",
+   "nama": "Sidabutar",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidari",
+   "nama": "Sidari",
+   "indukId": "samosir",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidauruk",
+   "nama": "Sidauruk",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sidebang",
+   "nama": "Sidebang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sigalingging",
+   "nama": "Sigalingging",
+   "ejaanLain": [
+    "Galingging"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sigiro",
+   "nama": "Sigiro",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sigukguhi",
+   "nama": "Sigukguhi",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sihaloho",
+   "nama": "Sihaloho",
+   "ejaanLain": [
+    "Haloho"
+   ],
+   "indukId": "silalahi",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sihite",
+   "nama": "Sihite",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sihole",
+   "nama": "Sihole",
+   "indukId": "limbong",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sihombing",
+   "nama": "Sihombing",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sihotang",
+   "nama": "Sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sijabat",
+   "nama": "Sijabat",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "silaban",
+   "nama": "Silaban",
+   "indukId": "sihombing",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "silaen",
+   "nama": "Silaen",
+   "indukId": "tampubolon",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "silalahi",
+   "nama": "Silalahi",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "silitonga",
+   "nama": "Silitonga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simaibang",
+   "nama": "Simaibang",
+   "ejaanLain": [
+    "Maibang"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simalango",
+   "nama": "Simalango",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simamora",
+   "nama": "Simamora",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simandalahi",
+   "nama": "Simandalahi",
+   "ejaanLain": [
+    "Mandalahi"
+   ],
+   "indukId": "sinaga",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simangunsong",
+   "nama": "Simangunsong",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simanjorang",
+   "nama": "Simanjorang",
+   "ejaanLain": [
+    "Manjorang"
+   ],
+   "indukId": "sinaga",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak, Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simanjuntak",
+   "nama": "Simanjuntak",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simanullang",
+   "nama": "Simanullang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simanungkalit",
+   "nama": "Simanungkalit",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simaremare",
+   "nama": "Simaremare",
+   "indukId": "aritonang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simarmata",
+   "nama": "Simarmata",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simarsoit",
+   "nama": "Simarsoit",
+   "indukId": "sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simatupang",
+   "nama": "Simatupang",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simbolon",
+   "nama": "Simbolon",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "simorangkir",
+   "nama": "Simorangkir",
+   "ejaanLain": [
+    "Simarangkir"
+   ],
+   "indukId": "panggabean",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinabang",
+   "nama": "Sinabang",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinabariba",
+   "nama": "Sinabariba",
+   "indukId": "silalahi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinabutar",
+   "nama": "Sinabutar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinaga",
+   "nama": "Sinaga",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinambela",
+   "nama": "Sinambela",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sinurat",
+   "nama": "Sinurat",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sipahutar",
+   "nama": "Sipahutar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sipangkar",
+   "nama": "Sipangkar",
+   "ejaanLain": [
+    "Sipakkar"
+   ],
+   "indukId": "silalahi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sipapaga",
+   "nama": "Sipapaga",
+   "ejaanLain": [
+    "Siampapaga"
+   ],
+   "indukId": "nainggolan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sipardabuan",
+   "nama": "Sipardabuan",
+   "indukId": "sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sipayung",
+   "nama": "Sipayung",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sirait",
+   "nama": "Sirait",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siregar",
+   "nama": "Siregar",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "siringoringo",
+   "nama": "Siringoringo",
+   "indukId": "situmorang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitakar",
+   "nama": "Sitakar",
+   "ejaanLain": [
+    "Sitangkar"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitindaon",
+   "nama": "Sitindaon",
+   "ejaanLain": [
+    "Tindaon"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitinjak",
+   "nama": "Sitinjak",
+   "indukId": "samosir",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitio",
+   "nama": "Sitio",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitohang",
+   "nama": "Sitohang",
+   "indukId": "situmorang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitompul",
+   "nama": "Sitompul",
+   "ejaanLain": [
+    "Tompul"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitorbandolok",
+   "nama": "Sitorbandolok",
+   "indukId": "sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sitorus",
+   "nama": "Sitorus",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "situmeang",
+   "nama": "Situmeang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "situmorang",
+   "nama": "Situmorang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "situngkir",
+   "nama": "Situngkir",
+   "indukId": "silalahi",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sorganimusu",
+   "nama": "Sorganimusu",
+   "indukId": "sihotang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sorimunggu",
+   "nama": "Sorimunggu",
+   "indukId": "manalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "sormin",
+   "nama": "Sormin",
+   "indukId": "siregar",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tamba",
+   "nama": "Tamba",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tambun",
+   "nama": "Tambun",
+   "ejaanLain": [
+    "Tambunan"
+   ],
+   "luarModul": true,
+   "catatan": "Marga suku Karo, dicantumkan hanya karena menjadi induk submarga di Toba.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tambunsaribu",
+   "nama": "Tambun Saribu",
+   "indukId": "purba",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tampubolon",
+   "nama": "Tampubolon",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tanjung",
+   "nama": "Tanjung",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola, Mandailing.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tarigan",
+   "nama": "Tarigan",
+   "luarModul": true,
+   "catatan": "Marga suku Karo, Simalungun, dicantumkan hanya karena menjadi induk submarga di Toba.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tarihoran",
+   "nama": "Tarihoran",
+   "catatan": "Marga ini juga dikenal di suku lain: Angkola.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tendang",
+   "nama": "Tendang",
+   "ejaanLain": [
+    "Tandang"
+   ],
+   "indukId": "tarigan",
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tinambunan",
+   "nama": "Tinambunan",
+   "ejaanLain": [
+    "Tinambunen"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tinendung",
+   "nama": "Tinendung",
+   "ejaanLain": [
+    "Tinendang"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "togatorop",
+   "nama": "Togatorop",
+   "indukId": "simatupang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tua",
+   "nama": "Tua",
+   "catatan": "Marga ini juga dikenal di suku lain: Karo, Simalungun. Catatan sumber: Dalam subetnis Karo adalah submarga Tarigan ; Dalam subetnis Simalungun adalah submarga Purba.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tumanggor",
+   "nama": "Tumanggor",
+   "ejaanLain": [
+    "Tumangger"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak. Catatan sumber: Bagian dari kelompok marga ''Si Onom Hudon'', keturunan Tuan Nahoda Raja.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "turnip",
+   "nama": "Turnip",
+   "catatan": "Marga ini juga dikenal di suku lain: Simalungun. Catatan sumber: Dalam subetnis Simalungun adalah submarga Saragih.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "turutan",
+   "nama": "Turutan",
+   "ejaanLain": [
+    "Turuten"
+   ],
+   "catatan": "Marga ini juga dikenal di suku lain: Pakpak. Catatan sumber: Bagian dari kelompok marga ''Si Onom Hudon'', keturunan Tuan Nahoda Raja.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08"
+   ]
+  }
+ ],
+ "ikatan": [
+  {
+   "kelompokA": "panjaitan",
+   "kelompokB": "sinambela",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  },
+  {
+   "kelompokA": "panjaitan",
+   "kelompokB": "simanullang",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "panjaitan",
+   "kelompokB": "sibuea",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  },
+  {
+   "kelompokA": "hutabarat",
+   "kelompokB": "silaban",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ],
+   "deskripsi": "Sumber menulis 'Silaban Sitio'."
+  },
+  {
+   "kelompokA": "sitorus",
+   "kelompokB": "hutajulu",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "sitorus",
+   "kelompokB": "hutahaean",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Hutajulu."
+  },
+  {
+   "kelompokA": "sitorus",
+   "kelompokB": "aruan",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Hutajulu."
+  },
+  {
+   "kelompokA": "sitorus",
+   "kelompokB": "nababan",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber menulis 'Sitorus Pane'."
+  },
+  {
+   "kelompokA": "naibaho",
+   "kelompokB": "lumbantoruan",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "silalahi",
+   "kelompokB": "tampubolon",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "sihotang",
+   "kelompokB": "naipospos",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "sihotang",
+   "kelompokB": "marbun",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Naipospos."
+  },
+  {
+   "kelompokA": "sihotang",
+   "kelompokB": "lumbanbatu",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Naipospos."
+  },
+  {
+   "kelompokA": "sihotang",
+   "kelompokB": "lumbangaol",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Naipospos."
+  },
+  {
+   "kelompokA": "sihotang",
+   "kelompokB": "banjarnahor",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber memasukkannya dalam kelompok Naipospos."
+  },
+  {
+   "kelompokA": "manalu",
+   "kelompokB": "banjarnahor",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "simanungkalit",
+   "kelompokB": "banjarnahor",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "debataraja",
+   "kelompokB": "manurung",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Wikipedia Indonesia, 'Debataraja' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Debataraja, diakses 2026-11-08",
+    "Keterangan pemilik proyek Sekampung (orang Batak), 8 Nov 2026: padan Debataraja-Manurung"
+   ],
+   "deskripsi": "Sumber menulis 'Simamora Debataraja'. Satu sumber menyebut sebagian Manurung (Hutagaol) tidak mengakuinya."
+  },
+  {
+   "kelompokA": "debataraja",
+   "kelompokB": "lumbangaol",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Wikipedia Indonesia, 'Debataraja' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Debataraja, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber menulis 'Simamora Debataraja' dan 'Marbun Lumbangaol'."
+  },
+  {
+   "kelompokA": "nainggolan",
+   "kelompokB": "siregar",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "parhusip",
+   "kelompokB": "siregar",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber menulis 'Nainggolan (Parhusip)'."
+  },
+  {
+   "kelompokA": "tampubolon",
+   "kelompokB": "sitompul",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "pangaribuan",
+   "kelompokB": "hutapea",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "purba",
+   "kelompokB": "lumbanbatu",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kelompokA": "sinaga",
+   "kelompokB": "situmorang",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ],
+   "deskripsi": "Sumber menulis 'Sinaga Bonor Suhutnihuta' dan 'Situmorang Suhutnihuta'."
+  }
+ ],
+ "istilah": [
+  {
+   "jalur": "F",
+   "sapaan": "Amang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Among",
+    "Bapa"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "M",
+   "sapaan": "Inang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Inong",
+    "Omak"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FF",
+   "sapaan": "Ompung Doli",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Opung Doli"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MF",
+   "sapaan": "Ompung Doli",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Opung Doli"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FM",
+   "sapaan": "Ompung Boru",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Opung Boru"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MM",
+   "sapaan": "Ompung Boru",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Opung Boru"
+   ],
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FB",
+   "sapaan": "Amang Tua",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Bapa Tua",
+    "Pak Tua"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Abang ayah.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FB",
+   "sapaan": "Amang Uda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Bapa Uda",
+    "Uda"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Adik ayah.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FBW",
+   "sapaan": "Inang Tua",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Mak Tua",
+    "Nangtua"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Istri abang ayah.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FBW",
+   "sapaan": "Inang Uda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Nanguda"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Istri adik ayah.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FZ",
+   "sapaan": "Namboru",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Bou"
+   ],
+   "catatan": "Saudara perempuan ayah, tanpa membedakan usia. Bou adalah singkatan namboru.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "FZH",
+   "sapaan": "Amangboru",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Amang Boru"
+   ],
+   "catatan": "Suami namboru.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MB",
+   "sapaan": "Tulang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "catatan": "Saudara laki-laki ibu, tanpa membedakan usia.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MBW",
+   "sapaan": "Nantulang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Natulang"
+   ],
+   "catatan": "Istri tulang.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MZ",
+   "sapaan": "Inang Tua",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Mak Tua",
+    "Nangtua"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Kakak perempuan ibu.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MZ",
+   "sapaan": "Inang Uda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Nanguda"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Adik perempuan ibu.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MZH",
+   "sapaan": "Amang Tua",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Bapa Tua",
+    "Pak Tua"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Suami kakak perempuan ibu.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "MZH",
+   "sapaan": "Amang Uda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Bapa Uda",
+    "Uda"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Suami adik perempuan ibu.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Haha",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Hahang",
+    "Angkang",
+    "Abang"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Kakak laki-laki, disapa adik laki-laki.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Anggi",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Agi",
+    "Anggia"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Adik laki-laki, disapa kakak laki-laki.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Ito",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Iboto"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Saudara laki-laki disapa perempuan; berlaku untuk semua usia.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "Z",
+   "sapaan": "Haha",
+   "sumber": [
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Kakak"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P",
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Kakak perempuan, disapa adik perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "Z",
+   "sapaan": "Anggi",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Agi",
+    "Anggia"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P",
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Adik perempuan, disapa kakak perempuan.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "Z",
+   "sapaan": "Ito",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Iboto"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Saudara perempuan disapa laki-laki; berlaku untuk semua usia.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "S",
+   "sapaan": "Anak",
+   "sumber": [
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "catatan": "Atau panggil nama.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "D",
+   "sapaan": "Boru",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "catatan": "Atau panggil nama.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "SS",
+   "sapaan": "Pahompu",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Hompu"
+   ],
+   "catatan": "Cucu; dalam praktik sering diganti panggilan lain atau nama.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "SD",
+   "sapaan": "Pahompu",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Hompu"
+   ],
+   "catatan": "Cucu; dalam praktik sering diganti panggilan lain atau nama.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "DS",
+   "sapaan": "Pahompu",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Hompu"
+   ],
+   "catatan": "Cucu; dalam praktik sering diganti panggilan lain atau nama.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "DD",
+   "sapaan": "Pahompu",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Hompu"
+   ],
+   "catatan": "Cucu; dalam praktik sering diganti panggilan lain atau nama.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "DH",
+   "sapaan": "Hela",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Amang Hela"
+   ],
+   "catatan": "Menantu laki-laki.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "SW",
+   "sapaan": "Parumaen",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Maen"
+   ],
+   "catatan": "Menantu perempuan.",
+   "keyakinan": "umum"
+  },
+  {
+   "jalur": "WF",
+   "sapaan": "Amang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "acuan": "Simatua (mertua laki-laki)",
+   "catatan": "Mertua disapa seperti orang tua. Bila calon istri adalah anak namboru, sumber menyebut sapaan Namboru/Amangboru.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "HF",
+   "sapaan": "Amang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "acuan": "Simatua (mertua laki-laki)",
+   "catatan": "Mertua disapa seperti orang tua. Bila calon istri adalah anak namboru, sumber menyebut sapaan Namboru/Amangboru.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "WM",
+   "sapaan": "Inang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "acuan": "Simatua boru (mertua perempuan)",
+   "catatan": "Mertua disapa seperti orang tua.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "HM",
+   "sapaan": "Inang",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "acuan": "Simatua boru (mertua perempuan)",
+   "catatan": "Mertua disapa seperti orang tua.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "ZH",
+   "sapaan": "Lae",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "varian": [
+    "Lek",
+    "Kale"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Suami saudara perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "FZS",
+   "sapaan": "Lae",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "varian": [
+    "Lek",
+    "Kale"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak laki-laki namboru.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "WB",
+   "sapaan": "Tunggane",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Saudara laki-laki istri.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "MBS",
+   "sapaan": "Tunggane",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak laki-laki tulang.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "BW",
+   "sapaan": "Eda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Istri saudara laki-laki, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "MBD",
+   "sapaan": "Eda",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Anak perempuan tulang, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "WBW",
+   "sapaan": "Inangbao",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Istri saudara laki-laki istri, disapa laki-laki.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "HZH",
+   "sapaan": "Amangbao",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Suami saudara perempuan suami, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "ZS",
+   "sapaan": "Bere",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak saudara perempuan, disapa laki-laki.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "ZD",
+   "sapaan": "Bere",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Devin, A. (29 Jan 2021). Memahami Beragam Panggilan dalam Masyarakat Batak Toba. Terminal Mojok, https://mojok.co/terminal/memahami-beragam-panggilan-dalam-masyarakat-batak-toba/"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak saudara perempuan, disapa laki-laki.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "HZS",
+   "sapaan": "Bere",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Anak saudara perempuan suami, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "HZD",
+   "sapaan": "Bere",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Anak saudara perempuan suami, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "WBD",
+   "sapaan": "Maen",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "varian": [
+    "Parumaen"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak perempuan saudara laki-laki istri, disapa laki-laki.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "BD",
+   "sapaan": "Maen",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "varian": [
+    "Parumaen"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Anak perempuan saudara laki-laki (ito), disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "MBD",
+   "sapaan": "Pariban",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba",
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "varian": [
+    "Poriban"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   },
+   "catatan": "Anak perempuan tulang. Sumber menyebut istilah ini jarang dipakai kini kecuali sebagai candaan soal jodoh.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "FZS",
+   "sapaan": "Pariban",
+   "sumber": [
+    "Butet RSM (13 Agu 2023). Partuturan: Panduan Sapaan Kekerabatan Batak Toba yang Perlu Dipahami. Terminal Mojok, https://mojok.co/terminal/partuturan-panduan-sapaan-kekerabatan-batak-toba-yang-perlu-dipahami/"
+   ],
+   "varian": [
+    "Poriban"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   },
+   "catatan": "Anak laki-laki namboru, disapa perempuan.",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "FBS",
+   "sapaan": "Haha",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "varian": [
+    "Hahang",
+    "Angkang",
+    "Abang"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihTua"
+   },
+   "catatan": "Anak abang ayah (anak amang tua).",
+   "keyakinan": "bervariasi"
+  },
+  {
+   "jalur": "FBS",
+   "sapaan": "Anggi",
+   "sumber": [
+    "Ogest, M. (14 Jun 2023). 28 Panggilan Nama Anggota Keluarga dalam Bahasa Batak Toba. detikSumut (mengutip Universitas Stekom), https://www.detik.com/sumut/budaya/d-6770808/28-panggilan-nama-anggota-keluarga-dalam-bahasa-batak-toba"
+   ],
+   "varian": [
+    "Agi",
+    "Anggia"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihMuda"
+   },
+   "catatan": "Anak adik ayah (anak amang uda).",
+   "keyakinan": "bervariasi"
+  }
+ ],
+ "aturan": [
+  {
+   "id": "semarga",
+   "tipe": "larangan",
+   "kondisi": {
+    "kelompokSama": true
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Pria dan wanita yang semarga (dongan sabutuha) dilarang menikah menurut adat Batak Toba; larangan ini masih dipertahankan dan dikenai sanksi adat.",
+   "sumber": [
+    "Pandiangan, E. A. M. (2016). Analisa Hukum Perkawinan Satu Marga Menurut Adat Batak Toba. to-ra (Jurnal Hukum) UKI, https://ejournal.uki.ac.id/index.php/tora/article/view/1121",
+    "Wikipedia, 'Marga (Batak)', https://en.wikipedia.org/wiki/Marga_(Batak), diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  },
+  {
+   "id": "serumpun-submarga",
+   "tipe": "larangan",
+   "kondisi": {
+    "indukSama": true,
+    "kelompokSama": false
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Kedua marga tercatat satu induk (submarga dan marga induknya, atau sesama submarga). Marga satu induk umumnya dipandang bersaudara sehingga biasanya tidak dianjurkan saling menikah; penerapannya dapat berbeda antar daerah dan keluarga.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar marga Batak' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Daftar_marga_Batak, diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  },
+  {
+   "id": "padan",
+   "tipe": "larangan",
+   "kondisi": {
+    "ikatan": "padan"
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Kedua marga memiliki ikrar padan (namarpadan) sehingga pria dan wanitanya tidak boleh menikah.",
+   "sumber": [
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak",
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "boru-ni-namboru",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "FZD"
+    ]
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Calon wanita adalah anak perempuan dari saudara perempuan ayah (boru ni namboru kandung); hubungan ini disebut terlarang (marboru namboru).",
+   "sumber": [
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  }
+ ],
+ "kamus": [
+  {
+   "kata": "Horas",
+   "arti": "Salam sapaan dan perpisahan; bermakna kesejahteraan dan kebahagiaan.",
+   "kategori": "Sapaan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia, 'Horas', https://en.wikipedia.org/wiki/Horas, diakses 2026-11-08"
+   ]
+  },
+  {
+   "kata": "Sada",
+   "arti": "Satu",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Dua",
+   "arti": "Dua",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Tolu",
+   "arti": "Tiga",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Opat",
+   "arti": "Empat",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Lima",
+   "arti": "Lima",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Onom",
+   "arti": "Enam",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Pitu",
+   "arti": "Tujuh",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Ualu",
+   "arti": "Delapan",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Sia",
+   "arti": "Sembilan",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Sampulu",
+   "arti": "Sepuluh",
+   "kategori": "Angka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Ulu",
+   "arti": "Kepala",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Bohi",
+   "arti": "Dahi, wajah",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Baba",
+   "arti": "Mulut",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Igung",
+   "arti": "Hidung",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Pinggol",
+   "arti": "Telinga",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Rungkung",
+   "arti": "Leher",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Tiput",
+   "arti": "Tangan",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Pat",
+   "arti": "Kaki",
+   "kategori": "Tubuh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Mangan",
+   "arti": "Makan",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Modom",
+   "arti": "Tidur",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Maridi",
+   "arti": "Mandi",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Karejo",
+   "arti": "Bekerja",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Hekkel",
+   "arti": "Ketawa",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Mardalani",
+   "arti": "Jalan-jalan",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Mardongan",
+   "arti": "Berteman",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Etong",
+   "arti": "Hitung",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Loja",
+   "arti": "Capek",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Holong",
+   "arti": "Cinta",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Mora",
+   "arti": "Kaya",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Pogos",
+   "arti": "Miskin",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Uli",
+   "arti": "Cantik",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Aek",
+   "arti": "Air",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Las",
+   "arti": "Hangat",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Ampun",
+   "arti": "Maaf",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Alani",
+   "arti": "Karena",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Sae",
+   "arti": "Selesai",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Sogot",
+   "arti": "Besok",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Gok",
+   "arti": "Penuh",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Naposo",
+   "arti": "Muda-mudi",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Burju",
+   "arti": "Baik, ramah",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Parmuruk",
+   "arti": "Pemarah",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Parsip",
+   "arti": "Pendiam",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  },
+  {
+   "kata": "Siholit",
+   "arti": "Orangnya pelit",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+   ]
+  }
+ ],
+ "budaya": [
+  {
+   "id": "dalihan-na-tolu",
+   "judul": "Dalihan Na Tolu",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Tiga 'tungku' yang menjadi kerangka hubungan kekerabatan dan perkawinan.",
+   "isi": [
+    "Dalihan na tolu berarti 'tungku yang tiga'. Ini kerangka hubungan kekerabatan darah dan perkawinan yang mengikat satu kelompok.",
+    "Somba marhula-hula: bersikap hormat kepada pihak pemberi istri (hula-hula), yang dipandang sebagai sumber berkat dan keturunan.",
+    "Elek marboru: mengayomi dan menyayangi anak perempuan serta pihak yang menerima anak perempuan (boru), dengan sikap lembut dan tanpa pamrih.",
+    "Manat mardongan tubu: berhati-hati terhadap sesama marga (dongan tubu atau sabutuha) agar tidak terjadi salah paham dalam acara adat.",
+    "Intinya saling menghormati (masipasangapon), saling menghargai, dan saling menolong."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Dalihan Na Tolu' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Dalihan_Na_Tolu, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "tarombo",
+   "judul": "Tarombo",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Silsilah garis keturunan Batak, berawal dari Raja Batak.",
+   "isi": [
+    "Tarombo adalah silsilah keturunan suku Batak. Silsilah ini berawal dari Raja Batak, yang disebut tinggal di lereng Pusuk Buhit, Sianjur Mulamula.",
+    "Tarombo membantu orang Batak memahami hubungan kekerabatannya, karena marga menjadi identitas keluarga.",
+    "Marga diwariskan turun-temurun. Keturunan Raja Batak dibagi dua golongan besar: Tatea Bulan (golongan 'bulan', dikaitkan dengan hula-hula dan marga Lontung) dan Isombaon (golongan 'matahari', dikaitkan dengan boru dan marga Sumba)."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Simanjuntak, E. C. H. (29 Jun 2024). Mengenal Tarombo: Silsilah Keluarga dan Nama Marga di Suku Batak. detikSumut, https://www.detik.com/sumut/budaya/d-7414537/mengenal-tarombo-silsilah-keluarga-dan-nama-marga-di-suku-batak"
+   ]
+  },
+  {
+   "id": "marga-semarga",
+   "judul": "Marga dan larangan semarga",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Sesama marga dipandang bersaudara, sehingga tidak boleh menikah.",
+   "isi": [
+    "Marga adalah identitas keluarga Batak yang diwariskan turun-temurun.",
+    "Sesama marga disebut dongan sabutuha dan dipandang bersaudara. Menurut adat Batak Toba, pria dan wanita yang semarga dilarang menikah.",
+    "Marga yang satu induk (submarga dan marga induknya) umumnya juga dipandang bersaudara, tetapi penerapannya dapat berbeda antar daerah dan keluarga."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Pandiangan, E. A. M. (2016). Analisa Hukum Perkawinan Satu Marga Menurut Adat Batak Toba. to-ra (Jurnal Hukum) UKI, https://ejournal.uki.ac.id/index.php/tora/article/view/1121",
+    "Wikipedia, 'Marga (Batak)', https://en.wikipedia.org/wiki/Marga_(Batak), diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak",
+    "Simanjuntak, E. C. H. (29 Jun 2024). Mengenal Tarombo: Silsilah Keluarga dan Nama Marga di Suku Batak. detikSumut, https://www.detik.com/sumut/budaya/d-7414537/mengenal-tarombo-silsilah-keluarga-dan-nama-marga-di-suku-batak"
+   ]
+  },
+  {
+   "id": "padan",
+   "judul": "Padan",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Ikrar antar marga yang membuat keturunannya tidak boleh menikah.",
+   "isi": [
+    "Padan (namarpadan) adalah ikrar atau janji yang mengikat marga-marga tertentu. Pria dan wanita dari marga yang berpadan tidak boleh menikah.",
+    "Menurut sumber, padan diikrarkan di hadapan Debata atau sesuatu yang dianggap sakral, dan melanggarnya dianggap seperti menyangkal keberadaan diri sendiri.",
+    "Lamanya padan beragam: ada yang sementara, ada yang seumur hidup, dan ada yang diwariskan ke keturunan. Daftar marga berpadan dapat dilihat di halaman rincian tiap marga."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Batakpedia (15 Nov 2014, 'Padan dan Namarpadan dalam Masyarakat Batak'), https://batakpedia.org/padan-dan-namarpadan-dalam-masyarakat-batak/, diakses 2026-11-08",
+    "Sinaga, R. M. (1 Feb 2023). 5 Perkawinan yang Dilarang dalam Adat Batak. detikSumut, https://www.detik.com/sumut/budaya/d-6545564/5-perkawinan-yang-dilarang-dalam-adat-batak"
+   ]
+  },
+  {
+   "id": "ulos",
+   "judul": "Ulos",
+   "kategori": "Budaya umum",
+   "ringkasan": "Kain tenun adat Batak yang dipakai dalam upacara kelahiran, pernikahan, dan kematian.",
+   "isi": [
+    "Ulos adalah kain tenun tradisional masyarakat Batak di kawasan Danau Toba. Ulos dipakai sebagai busana adat dan menjadi simbol dalam upacara siklus hidup. Ulos ditetapkan sebagai Warisan Budaya Takbenda Indonesia pada 17 Oktober 2014, yang kini diperingati sebagai Hari Ulos Nasional.",
+    "Ulos Ragidup: berderajat tinggi, ditenun dalam tiga bagian lalu disatukan; melambangkan kehidupan dan kebahagiaan, lazim diberikan orang tua kepada pengantin sebagai restu.",
+    "Ulos Ragi Hotang: bermotif seperti jalinan rotan (hotang); umumnya diberikan orang tua mempelai perempuan kepada menantu laki-laki.",
+    "Ulos Sadum: bermotif ramai dengan warna cerah, lazim dipakai sebagai selendang dalam pernikahan.",
+    "Ulos Sibolang: bermotif seperti ombak berwarna dasar biru tua atau hitam; dikaitkan dengan upacara duka.",
+    "Ulos Mangiring: bermotif garis beriringan, melambangkan harapan agar keturunan terus bertambah; diberikan kepada pasangan baru menikah atau keluarga yang baru punya anak."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Kementerian Pariwisata RI, 'Tak Hanya Memesona, 5 Kain Ulos Khas Danau Toba Ini Juga Sarat Makna', indonesia.travel, https://www.indonesia.travel/id/id/travel-ideas/heritage/tak-hanya-memesona-5-kain-ulos-khas-danau-toba-ini-juga-sarat-makna/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "mangulosi",
+   "judul": "Mangulosi",
+   "kategori": "Pernikahan",
+   "ringkasan": "Memberikan ulos sebagai restu, harapan, dan kasih sayang.",
+   "isi": [
+    "Mangulosi adalah pemberian ulos kepada pengantin dalam upacara adat pernikahan Batak Toba. Tradisi ini melambangkan restu, harapan, dan kasih sayang keluarga.",
+    "Ulos dimaknai sebagai pelindung dari gangguan, pengikat kasih dan persaudaraan, serta kehangatan jiwa. Ulos juga dipercaya membawa doa agar rumah tangga diberkati dan dikaruniai keturunan.",
+    "Urutannya: orang tua mempelai wanita memberi ulos lebih dahulu kepada kedua mempelai, lalu hula-hula dan undangan dari pihak perempuan, kemudian dari pihak mempelai laki-laki.",
+    "Pemberi ulos harus lebih tua atau berkedudukan adat lebih tinggi. Orang tua boleh memberi ulos kepada anak, tetapi anak tidak boleh mangulosi orang tuanya karena ulos dianggap sakral."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Pakpahan, I. (4 Nov 2023). Tradisi Mangulosi pada Pernikahan Batak Toba. Good News From Indonesia, https://www.goodnewsfromindonesia.id/2023/11/04/tradisi-mangulosi-pada-pernikahan-batak-toba"
+   ]
+  },
+  {
+   "id": "prosesi-pernikahan",
+   "judul": "Prosesi pernikahan",
+   "kategori": "Pernikahan",
+   "ringkasan": "Dari mencari calon hingga maningkir tangga: tahapan adat pernikahan Batak Toba.",
+   "isi": [
+    "Sumber menguraikan 13 sampai 14 tahap. Urutan dan kelengkapannya dapat berbeda antar sumber dan daerah; dalam beberapa tahun terakhir sebagian tahap dilewati atau digabung dalam satu waktu.",
+    "Martumpol dan pemberkatan di gereja umumnya dijalani keluarga yang beragama Kristen."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Orami (23 Sep 2025). 14 Prosesi Pernikahan Adat Batak Toba, Penuh Makna! https://www.orami.co.id/magazine/pernikahan-adat-batak",
+    "Kayana, H. (27 Jun 2022). Prosesi Pernikahan Adat Batak. Popbela, https://www.popbela.com/relationship/married/prosesi-pernikahan-adat-batak-00-tq812-xznc8b"
+   ],
+   "berurut": true,
+   "rincian": [
+    {
+     "judul": "Mangaririt",
+     "isi": "Pihak pria memilih calon istri sesuai kriteria dirinya atau keluarganya; biasanya dilakukan bila pria sedang merantau."
+    },
+    {
+     "judul": "Mangalehon tanda",
+     "isi": "Pria memberi sejumlah uang dan pihak wanita membalas dengan kain sarung sebagai tanda keterikatan. Setelah itu orang tua pria diberi tahu dan mengutus perantara."
+    },
+    {
+     "judul": "Marhusip",
+     "isi": "Pembicaraan tertutup antara utusan pihak pria dan wakil pihak wanita, terutama soal sinamot, penyelenggara, tanggal, dan tempat. Dirahasiakan agar acara tidak gagal."
+    },
+    {
+     "judul": "Marhata sinamot",
+     "isi": "Perundingan jumlah sinamot, hewan yang disembelih, jumlah ulos, undangan, dan lokasi acara. Sekaligus menjadi perkenalan resmi kedua keluarga."
+    },
+    {
+     "judul": "Pundun saut",
+     "isi": "Keluarga pria mengantar ternak sembelihan ke pihak wanita, lalu makan bersama dan membagi daging. Di akhir, kedua keluarga menentukan jadwal martumpol dan pemberkatan."
+    },
+    {
+     "judul": "Martumpol",
+     "isi": "Kedua calon pengantin berikrar akan menikah di hadapan pengurus jemaat gereja. Sering disamakan dengan pertunangan."
+    },
+    {
+     "judul": "Martonggo raja",
+     "isi": "Keluarga besar berkumpul membahas rincian adat hari pernikahan, termasuk siapa memberi dan menerima ulos. Pernikahan dipandang sebagai urusan keluarga besar."
+    },
+    {
+     "judul": "Manjalo pasu-pasu parbagason",
+     "isi": "Pendeta memberkati pernikahan di gereja sehingga pasangan sah menurut gereja. Setelah itu kedua keluarga melanjutkan upacara adat."
+    },
+    {
+     "judul": "Ulaon unjuk",
+     "isi": "Pesta adat tempat pengantin menerima doa dan restu keluarga, terutama orang tua, disertai pemberian ulos. Dilanjutkan pembagian jambar: pihak wanita menerima daging (jambar juhut) dan uang (tuhor ni boru), pihak pria menerima ikan arsik (dengke) dan ulos."
+    },
+    {
+     "judul": "Dialap jual",
+     "isi": "Bila pesta digelar di rumah pengantin wanita, pengantin wanita dibawa ke rumah pengantin pria."
+    },
+    {
+     "judul": "Ditaruhon jual",
+     "isi": "Bila pesta digelar di rumah pria, pengantin wanita pulang dulu ke orang tuanya lalu diantar kerabat (namboru) ke rumah suami. Pihak pria memberi upah antar (upa manaru)."
+    },
+    {
+     "judul": "Paulak une",
+     "isi": "Kunjungan timbal balik kedua keluarga beberapa hari sampai sekitar seminggu setelah pernikahan, dimulai dari keluarga pria."
+    },
+    {
+     "judul": "Manjae",
+     "isi": "Setelah beberapa waktu berumah tangga, pasangan yang prianya bukan anak bungsu dipisah dari orang tua dalam tempat tinggal dan mata pencaharian. Anak bungsu biasanya mewarisi rumah orang tua."
+    },
+    {
+     "judul": "Maningkir tangga",
+     "isi": "Setelah pasangan tinggal di rumah sendiri, orang tua dan keluarga berkunjung dan makan bersama."
+    }
+   ]
+  },
+  {
+   "id": "jenis-kematian",
+   "judul": "Jenis kematian",
+   "kategori": "Kematian",
+   "ringkasan": "Kematian digolongkan menurut usia dan keadaan keluarga saat seseorang meninggal.",
+   "isi": [
+    "Dalam adat Batak Toba, kematian dibedakan menurut kapan seseorang meninggal dan keadaan keluarganya. Satu sumber menyebut 11 jenis.",
+    "Pembagian dan batasan tiap jenis dapat berbeda antar sumber dan daerah (misalnya batas antara sari matua dan saur matua). Kematian yang dianggap paling ideal adalah saur matua."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Atmam, A. (21 Feb 2025). Jenis-Jenis Kematian dalam Masyarakat Batak Toba. Good News From Indonesia, https://www.goodnewsfromindonesia.id/infographic/jenis-jenis-kematian-dalam-masyarakat-batak-toba"
+   ],
+   "berurut": false,
+   "rincian": [
+    {
+     "judul": "Mate di bortian",
+     "isi": "Meninggal saat masih dalam kandungan; dimakamkan tanpa peti dan tanpa upacara adat."
+    },
+    {
+     "judul": "Mate poso-poso",
+     "isi": "Meninggal saat masih bayi; jenazah ditutup selembar ulos dari orang tuanya."
+    },
+    {
+     "judul": "Mate dakdanak",
+     "isi": "Meninggal saat masih anak-anak; jenazah ditutupi ulos dari tulang (paman)."
+    },
+    {
+     "judul": "Mate bulung",
+     "isi": "Meninggal saat remaja; seperti mate dakdanak, jenazah ditutupi ulos dari tulang."
+    },
+    {
+     "judul": "Mate ponggol",
+     "isi": "Meninggal saat dewasa tetapi belum menikah; disebut juga kematian yang 'patah' atau 'putus'."
+    },
+    {
+     "judul": "Mate punu",
+     "isi": "Meninggal saat sudah menikah tetapi belum punya anak; dikhawatirkan karena dianggap tidak ada yang meneruskan marga."
+    },
+    {
+     "judul": "Mate mangkar",
+     "isi": "Meninggal saat sudah menikah dan anak-anaknya masih kecil; upacara adat tanpa musik."
+    },
+    {
+     "judul": "Mate hatungganeon",
+     "isi": "Meninggal saat anak sudah menikah tetapi belum punya cucu; upacara adat tanpa musik."
+    },
+    {
+     "judul": "Mate sari matua",
+     "isi": "Meninggal saat sudah punya cucu tetapi masih ada anak yang belum menikah; upacara adat melibatkan musik."
+    },
+    {
+     "judul": "Mate saur matua",
+     "isi": "Meninggal saat seluruh anak sudah menikah dan berketurunan; dianggap kematian yang paling ideal."
+    },
+    {
+     "judul": "Saur matua mauli bulung",
+     "isi": "Juga dianggap ideal: seluruh anak sudah menikah dan ada cucu serta cicit; upacara adat berlangsung berhari-hari dengan musik."
+    }
+   ]
+  }
+ ],
+ "ucapan": [
+  {
+   "id": "horas-umum",
+   "teks": "Horas, {nama}! Selamat ulang tahun. Semoga sehat dan diberkati selalu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia, 'Horas', https://en.wikipedia.org/wiki/Horas, diakses 2026-11-08"
+   ]
+  }
+ ]
+}

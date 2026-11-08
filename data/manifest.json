@@ -1,0 +1,10 @@
+{
+ "format": 1,
+ "modul": {
+  "batak-toba": {
+   "versi": 3,
+   "berkas": "batak-toba.json",
+   "sha256": "643991f4f98ca1fb36140ee1cfe199eb3d6785f2dfe72eaba392420d0d112fb9"
+  }
+ }
+}
