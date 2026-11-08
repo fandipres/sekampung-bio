@@ -1,25 +1,16 @@
-// Tahun di footer, tombol tema (tersimpan di localStorage), dan tombol bagikan.
+// Tahun di footer, tombol tema (kelas "dark" + localStorage), tombol bagikan, dan animasi muncul.
+// Kelas "dark" awal dipasang oleh skrip kecil di <head> agar tidak berkedip.
 (function () {
   var akar = document.documentElement;
 
   function simpan(k, v) {
     try { localStorage.setItem(k, v); } catch (e) { /* mode privat */ }
   }
-  function baca(k) {
-    try { return localStorage.getItem(k); } catch (e) { return null; }
-  }
-
-  var tema = baca("tema");
-  if (tema === "light" || tema === "dark") akar.setAttribute("data-theme", tema);
 
   var tombolTema = document.getElementById("tombol-tema");
   if (tombolTema) {
     tombolTema.addEventListener("click", function () {
-      var gelap = akar.getAttribute("data-theme") === "dark" ||
-        (!akar.getAttribute("data-theme") && window.matchMedia("(prefers-color-scheme: dark)").matches);
-      var baru = gelap ? "light" : "dark";
-      akar.setAttribute("data-theme", baru);
-      simpan("tema", baru);
+      simpan("tema", akar.classList.toggle("dark") ? "dark" : "light");
     });
   }
 
@@ -40,4 +31,16 @@
       }
     });
   }
+
+  var animasi = document.querySelectorAll(".fade-in, .fade-in-up");
+  if (!("IntersectionObserver" in window)) {
+    animasi.forEach(function (el) { el.classList.add("visible"); });
+    return;
+  }
+  var pengamat = new IntersectionObserver(function (daftar) {
+    daftar.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add("visible"); pengamat.unobserve(e.target); }
+    });
+  }, { threshold: 0.15 });
+  animasi.forEach(function (el) { pengamat.observe(el); });
 })();
