@@ -189,27 +189,31 @@ tailwind.config = {
 
 <section class="py-20 bg-gradient-to-br from-stone-900 to-tinta dark:from-black dark:to-stone-900 text-white relative overflow-hidden border-t border-stone-800">
   <div class="absolute top-0 right-0 -mt-20 -mr-20 w-64 h-64 bg-ulos-600 rounded-full blur-[100px] opacity-25 pointer-events-none"></div>
-  <div class="container mx-auto px-6 relative z-10 max-w-3xl">
+  <div class="container mx-auto px-6 relative z-10 grid lg:grid-cols-2 gap-10 lg:gap-16 items-center">
+    <div>
     <span class="inline-block py-1 px-3 rounded-full bg-stone-800 border border-stone-700 text-gold-400 font-semibold tracking-wider text-xs uppercase mb-4">Privat</span>
     <h2 class="text-3xl md:text-4xl font-extrabold mb-6 tracking-tight">Data keluarga Anda tetap di HP Anda</h2>
-    <ul class="space-y-3 text-stone-200">
+    <a href="privacy-policy/" class="inline-flex items-center justify-center bg-white text-ulos-700 hover:bg-ulos-50 px-8 py-4 rounded-xl font-bold transition">Baca kebijakan privasi</a>
+    </div>
+    <ul class="space-y-4 text-stone-200 text-lg">
       <li class="flex gap-3"><span class="text-gold-400 mt-0.5"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></span>Tanpa akun dan tanpa server yang menerima tarombo Anda.</li>
       <li class="flex gap-3"><span class="text-gold-400 mt-0.5"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></span>Tanpa analitik dan tanpa pelacakan penggunaan.</li>
       <li class="flex gap-3"><span class="text-gold-400 mt-0.5"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></span>Pembaruan isi hanya mengunduh; tidak ada data pribadi yang dikirim.</li>
       <li class="flex gap-3"><span class="text-gold-400 mt-0.5"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg></span>Cadangan tersimpan di tempat yang Anda pilih sendiri.</li>
     </ul>
-    <a href="privacy-policy/" class="inline-flex items-center justify-center mt-8 bg-white text-ulos-700 hover:bg-ulos-50 px-8 py-4 rounded-xl font-bold transition">Baca kebijakan privasi</a>
   </div>
 </section>
 
 <section class="py-20 bg-white dark:bg-malam border-t border-stone-100 dark:border-stone-800/50">
-  <div class="container mx-auto px-6 max-w-3xl">
+  <div class="container mx-auto px-6 grid lg:grid-cols-5 gap-10 lg:gap-16 items-start">
+    <div class="lg:col-span-2">
     <h2 class="text-3xl md:text-4xl font-bold tracking-tight mb-4 text-tinta dark:text-white">Dimulai dari Batak Toba</h2>
     <p class="text-stone-600 dark:text-stone-400 mb-6 leading-relaxed">Sekampung dibuat berbasis modul. Modul pertama adalah Batak Toba, dan suku lain dapat ditambahkan. Beri tahu suku yang Anda inginkan, atau bantu memeriksa isinya.</p>
-    <div class="p-5 rounded-2xl bg-ulos-50 dark:bg-ulos-900/20 border border-ulos-100 dark:border-ulos-800/40 text-sm text-stone-700 dark:text-stone-300 leading-relaxed mb-8">
+    <div class="p-5 rounded-2xl bg-ulos-50 dark:bg-ulos-900/20 border border-ulos-100 dark:border-ulos-800/40 text-sm text-stone-700 dark:text-stone-300 leading-relaxed">
       Isi Sekampung adalah ringkasan untuk belajar, bukan rujukan adat resmi. Adat dapat berbeda antar daerah dan keluarga. Lihat <a href="disclaimer/" class="font-semibold text-ulos-700 dark:text-ulos-300 underline underline-offset-4">Disclaimer</a> dan <a href="data-sources/" class="font-semibold text-ulos-700 dark:text-ulos-300 underline underline-offset-4">Sumber data</a>.
     </div>
-    <div class="grid md:grid-cols-2 gap-8">
+    </div>
+    <div class="lg:col-span-3 grid md:grid-cols-2 gap-8">
       <div>
         <h3 class="font-bold mb-3 text-tinta dark:text-white">Informasi</h3>
         <ul class="grid gap-3">
