@@ -2,7 +2,7 @@
 
 This repo contains the source code for the landing page of Sekampung, an offline-first app that helps people understand their family ties and cultural heritage through clan names (marga), family trees (tarombo), kinship terms (partuturan), and relationship checks based on tradition. It starts with the Batak Toba module, with more ethnic groups planned. This landing page also hosts the versioned data packs the app downloads.
 
-The public site for **Sekampung**, and the home of the app's data, served through GitHub Pages at `https://fandipres.github.io/sekampung-bio/`.
+The public site for **Sekampung**, and the home of the app's data, served through GitHub Pages at `https://sekampung.fandipres.my.id`.
 
 | Part | Contents |
 |---|---|
