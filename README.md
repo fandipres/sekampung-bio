@@ -1,19 +1,21 @@
 # sekampung-bio
 
-Situs publik **Sekampung** (aplikasi kekerabatan dan budaya suku) dan tempat data aplikasinya. Dilayani lewat GitHub Pages di `https://fandipres.github.io/sekampung-bio/`.
+This repo contains the source code for the landing page of Sekampung, an offline-first app that helps people understand their family ties and cultural heritage through clan names (marga), family trees (tarombo), kinship terms (partuturan), and relationship checks based on tradition. It starts with the Batak Toba module, with more ethnic groups planned. This landing page also hosts the versioned data packs the app downloads.
 
-| Bagian | Isi |
+The public site for **Sekampung**, and the home of the app's data, served through GitHub Pages at `https://fandipres.github.io/sekampung-bio/`.
+
+| Part | Contents |
 |---|---|
-| `index.html` | Beranda: tentang aplikasi, tautan informasi, kontak |
-| `panduan/`, `tentang/` | Cara menggunakan dan tentang Sekampung |
-| `privacy-policy/`, `terms-conditions/`, `disclaimer/`, `delete-account/` | Halaman hukum dan penghapusan data |
-| `sumber-data/` | Rujukan dan atribusi isi |
-| `data/manifest.json`, `data/batak-toba.json` | Versi, checksum SHA-256, dan paket data modul yang diunduh aplikasi |
+| `index.html` | Home page: about the app, information links, contact |
+| `guide/`, `about/` | How to use the app, and about Sekampung |
+| `privacy-policy/`, `terms-conditions/`, `disclaimer/`, `delete-account/` | Legal and data deletion pages |
+| `data-sources/` | References and attribution for the content |
+| `data/manifest.json`, `data/batak-toba.json` | Version, SHA-256 checksum, and the module data pack the app downloads |
 
-Aplikasi hanya **mengunduh** dari sini; tidak ada data pengguna yang dikirim ke sini.
+The app only **downloads** from here; no user data is sent to this site. The pages are generated from the app's own text, and the web pages load Tailwind CSS from its CDN (the app itself has no analytics or trackers).
 
-## Lisensi dan atribusi
+## License and attribution
 
-Sebagian isi paket data disusun ulang dari Wikipedia (CC BY-SA 4.0) dan rujukan lain; daftar lengkapnya ada di halaman **Sumber data** dan di kolom `sumber` tiap entri. Isi diubah dari sumber aslinya. Lisensi akhir repo ini **belum diputuskan** (turunan CC BY-SA berarti paket ini juga harus CC BY-SA 4.0). Font Plus Jakarta Sans: SIL Open Font License (`assets/fonts/OFL.txt`).
+Part of the data pack is adapted from Wikipedia (CC BY-SA 4.0) and other references. The full list is on the **Sumber data** page and in the `sumber` field of each entry. The content has been changed from the original sources. The final license of this repo has **not been decided yet** (a CC BY-SA derivative means this pack must also be CC BY-SA 4.0). The Plus Jakarta Sans font is under the SIL Open Font License (`assets/fonts/OFL.txt`).
 
-Isi belum seluruhnya divalidasi oleh penutur atau tokoh adat. Laporan koreksi: preslystudio@gmail.com.
+The content has not yet been fully validated by native speakers or traditional elders. To report a correction: preslystudio@gmail.com.
