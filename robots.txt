@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fandipres.github.io/sekampung-bio/sitemap.xml
+Sitemap: https://sekampung.fandipres.my.id/sitemap.xml

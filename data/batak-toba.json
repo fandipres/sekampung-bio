@@ -3,7 +3,7 @@
  "nama": "Batak Toba",
  "rumpun": "batak",
  "labelKelompok": "marga",
- "versiData": 3,
+ "versiData": 8,
  "fiktif": false,
  "divalidasi": false,
  "daerahVarian": [],
@@ -2968,6 +2968,40 @@
    ]
   },
   {
+   "id": "sedarah-uu-perkawinan",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "M",
+     "FM",
+     "MM",
+     "FFM",
+     "FMM",
+     "MFM",
+     "MMM",
+     "D",
+     "SD",
+     "DD",
+     "SSD",
+     "SDD",
+     "DSD",
+     "DDD",
+     "Z",
+     "FZ",
+     "MZ",
+     "FFZ",
+     "FMZ",
+     "MFZ",
+     "MMZ"
+    ]
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Perkawinan dilarang antara dua orang yang berhubungan darah dalam garis lurus ke atas atau ke bawah (orang tua, kakek atau nenek, anak, cucu), antara saudara, antara seseorang dengan saudara orang tuanya, dan antara seseorang dengan saudara neneknya (UU Perkawinan Pasal 8). Hubungan sedarah dekat juga tidak dianjurkan dalam adat.",
+   "sumber": [
+    "Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 8 huruf a dan b, https://jdih.setkab.go.id/PUUdoc/4050/uu0011974.pdf, diakses 2026-11-12"
+   ]
+  },
+  {
    "id": "serumpun-submarga",
    "tipe": "larangan",
    "kondisi": {
@@ -3264,11 +3298,12 @@
   },
   {
    "kata": "Holong",
-   "arti": "Cinta",
+   "arti": "Cinta, sayang",
    "kategori": "Sifat dan lainnya",
    "keyakinan": "bervariasi",
    "sumber": [
-    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)",
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
    ]
   },
   {
@@ -3291,11 +3326,12 @@
   },
   {
    "kata": "Uli",
-   "arti": "Cantik",
+   "arti": "Cantik, indah",
    "kategori": "Sifat dan lainnya",
    "keyakinan": "bervariasi",
    "sumber": [
-    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
+    "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)",
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
    ]
   },
   {
@@ -3405,6 +3441,843 @@
    "sumber": [
     "Nugroho, W. D. (14 Sep 2023). 75 Kata Bahasa Batak dan Artinya yang Bisa Dipelajari. iNews.id, https://www.inews.id/news/nasional/75-kata-bahasa-batak-dan-artinya-bisa-dipelajari (artikel tidak menyebut dialek)"
    ]
+  },
+  {
+   "kata": "Bagak",
+   "arti": "Cantik, elok, bagus, keren, atau molek",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Didia",
+   "arti": "Di mana",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Rade",
+   "arti": "Mau",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hasian",
+   "arti": "Sayang (panggilan kasih)",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Leleng",
+   "arti": "Lama",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Godang",
+   "arti": "Banyak",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dohot",
+   "arti": "Ikut; dengan",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ngolu",
+   "arti": "Hidup",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sahat",
+   "arti": "Sampai",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tangiang",
+   "arti": "Doa",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sude",
+   "arti": "Semua",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Mulak",
+   "arti": "Pulang",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dame",
+   "arti": "Damai",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sonang",
+   "arti": "Senang",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Inang",
+   "arti": "Ibu",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dapot",
+   "arti": "Dapat",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Lao",
+   "arti": "Pergi",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Haol",
+   "arti": "Peluk",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Gogo",
+   "arti": "Kuat",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Gelleng",
+   "arti": "Kecil",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Loas",
+   "arti": "Biarkan",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Pillit",
+   "arti": "Pilih",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Holan",
+   "arti": "Hanya",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Lului",
+   "arti": "Cari",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Male",
+   "arti": "Lapar",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hansit",
+   "arti": "Sakit",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Somba",
+   "arti": "Sembah",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Boasa",
+   "arti": "Mengapa",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sungkun",
+   "arti": "Tanya",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ingot",
+   "arti": "Ingat",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Saotik",
+   "arti": "Sedikit",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dang",
+   "arti": "Tidak",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Adong",
+   "arti": "Ada",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Songon",
+   "arti": "Seperti",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ho",
+   "arti": "Kamu, kau",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Pos",
+   "arti": "Tenang",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tona",
+   "arti": "Nasihat",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Amang",
+   "arti": "Ayah",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Boan",
+   "arti": "Bawa, tuntun",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ahu",
+   "arti": "Aku",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Alogo",
+   "arti": "Angin",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Topi",
+   "arti": "Pinggir",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tonga",
+   "arti": "Tengah",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tao",
+   "arti": "Danau, air",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Bereng",
+   "arti": "Lihat",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Lomo",
+   "arti": "Suka",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Goar",
+   "arti": "Nama",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Timbo",
+   "arti": "Tinggi",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sian",
+   "arti": "Dari",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tudia",
+   "arti": "Ke mana",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dolok",
+   "arti": "Gunung",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Bagas",
+   "arti": "Dalam",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Pangido",
+   "arti": "Minta",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Rap",
+   "arti": "Sama, bersama",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hatop",
+   "arti": "Cepat",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Huta",
+   "arti": "Desa",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tulang",
+   "arti": "Paman",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Boru",
+   "arti": "Perempuan",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ringgas",
+   "arti": "Resah",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sihol",
+   "arti": "Rindu, kangen",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Jumpang",
+   "arti": "Bertemu",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Pege",
+   "arti": "Jahe",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hunik",
+   "arti": "Kunyit",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Nanget",
+   "arti": "Pelan",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Gora",
+   "arti": "Sapa",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Molo",
+   "arti": "Jika",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Unang",
+   "arti": "Jangan",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sala",
+   "arti": "Salah",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dongan",
+   "arti": "Teman, kawan",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tubu",
+   "arti": "Lahir",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Manat",
+   "arti": "Hati-hati",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Dadap",
+   "arti": "Pelan-pelan",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Maila",
+   "arti": "Malu",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Bege",
+   "arti": "Dengar",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Poda",
+   "arti": "Nasihat",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hata",
+   "arti": "Kata",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Gabe",
+   "arti": "Jadi",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sega",
+   "arti": "Rusak",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Denggan",
+   "arti": "Bagus, baik",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Roha",
+   "arti": "Hati",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Malum",
+   "arti": "Sembuh",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Boi",
+   "arti": "Bisa",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Bahen",
+   "arti": "Buat",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Partuturan",
+   "arti": "Panggilan antar kerabat",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Ingkon",
+   "arti": "Harus",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Tiop",
+   "arti": "Pegang",
+   "kategori": "Kata kerja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Torus",
+   "arti": "Terus",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Jolma",
+   "arti": "Orang",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Halak",
+   "arti": "Orang",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sintong",
+   "arti": "Benar",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Hita",
+   "arti": "Kita",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Sangap",
+   "arti": "Mulia",
+   "kategori": "Sifat dan lainnya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
+  },
+  {
+   "kata": "Arta",
+   "arti": "Harta",
+   "kategori": "Kata benda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Keterangan pemilik proyek (penutur Batak), diberikan 2026-11-12"
+   ]
   }
  ],
  "budaya": [
@@ -3478,9 +4351,21 @@
    "id": "ulos",
    "judul": "Ulos",
    "kategori": "Budaya umum",
-   "ringkasan": "Kain tenun adat Batak yang dipakai dalam upacara kelahiran, pernikahan, dan kematian.",
+   "ringkasan": "Kain tenun adat Batak: pengertian dan penetapan sebagai warisan budaya.",
    "isi": [
-    "Ulos adalah kain tenun tradisional masyarakat Batak di kawasan Danau Toba. Ulos dipakai sebagai busana adat dan menjadi simbol dalam upacara siklus hidup. Ulos ditetapkan sebagai Warisan Budaya Takbenda Indonesia pada 17 Oktober 2014, yang kini diperingati sebagai Hari Ulos Nasional.",
+    "Ulos adalah kain tenun tradisional masyarakat Batak di kawasan Danau Toba. Ulos dipakai sebagai busana adat dan menjadi simbol dalam upacara siklus hidup. Ulos ditetapkan sebagai Warisan Budaya Takbenda Indonesia pada 17 Oktober 2014, yang kini diperingati sebagai Hari Ulos Nasional."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Kementerian Pariwisata RI, 'Tak Hanya Memesona, 5 Kain Ulos Khas Danau Toba Ini Juga Sarat Makna', indonesia.travel, https://www.indonesia.travel/id/id/travel-ideas/heritage/tak-hanya-memesona-5-kain-ulos-khas-danau-toba-ini-juga-sarat-makna/, diakses 2026-11-08"
+   ]
+  },
+  {
+   "id": "jenis-ulos",
+   "judul": "Jenis-jenis ulos",
+   "kategori": "Budaya umum",
+   "ringkasan": "Ragidup, Ragi Hotang, Sadum, Sibolang, dan Mangiring.",
+   "isi": [
     "Ulos Ragidup: berderajat tinggi, ditenun dalam tiga bagian lalu disatukan; melambangkan kehidupan dan kebahagiaan, lazim diberikan orang tua kepada pengantin sebagai restu.",
     "Ulos Ragi Hotang: bermotif seperti jalinan rotan (hotang); umumnya diberikan orang tua mempelai perempuan kepada menantu laki-laki.",
     "Ulos Sadum: bermotif ramai dengan warna cerah, lazim dipakai sebagai selendang dalam pernikahan.",
@@ -3512,7 +4397,7 @@
    "id": "prosesi-pernikahan",
    "judul": "Prosesi pernikahan",
    "kategori": "Pernikahan",
-   "ringkasan": "Dari mencari calon hingga maningkir tangga: tahapan adat pernikahan Batak Toba.",
+   "ringkasan": "14 tahap, dari Mangaririt sampai Maningkir tangga.",
    "isi": [
     "Sumber menguraikan 13 sampai 14 tahap. Urutan dan kelengkapannya dapat berbeda antar sumber dan daerah; dalam beberapa tahun terakhir sebagian tahap dilewati atau digabung dalam satu waktu.",
     "Martumpol dan pemberkatan di gereja umumnya dijalani keluarga yang beragama Kristen."
@@ -3586,7 +4471,7 @@
    "id": "jenis-kematian",
    "judul": "Jenis kematian",
    "kategori": "Kematian",
-   "ringkasan": "Kematian digolongkan menurut usia dan keadaan keluarga saat seseorang meninggal.",
+   "ringkasan": "11 jenis, dari Mate di bortian sampai Saur matua mauli bulung.",
    "isi": [
     "Dalam adat Batak Toba, kematian dibedakan menurut kapan seseorang meninggal dan keadaan keluarganya. Satu sumber menyebut 11 jenis.",
     "Pembagian dan batasan tiap jenis dapat berbeda antar sumber dan daerah (misalnya batas antara sari matua dan saur matua). Kematian yang dianggap paling ideal adalah saur matua."
