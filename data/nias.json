@@ -1,0 +1,2273 @@
+{
+ "id": "nias",
+ "nama": "Nias",
+ "rumpun": "nias",
+ "labelKelompok": "mado",
+ "versiData": 1,
+ "fiktif": false,
+ "divalidasi": false,
+ "daerahVarian": [],
+ "marga": [
+  {
+   "id": "amazihono",
+   "nama": "Amazihönö",
+   "ejaanLain": [
+    "Amazihono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "baeha",
+   "nama": "Baeha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "baene",
+   "nama": "Baene",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "baewa",
+   "nama": "Baewa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bago",
+   "nama": "Bago",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bagolo",
+   "nama": "Bagolö",
+   "ejaanLain": [
+    "Bagolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "balazi",
+   "nama": "Balazi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bali",
+   "nama": "Bali",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "baru",
+   "nama": "Baru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "batee",
+   "nama": "Bate'e",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bawalowalangi",
+   "nama": "Baŵaloŵalangi",
+   "ejaanLain": [
+    "Bawalowalangi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bawamenewi",
+   "nama": "Baŵameneŵi",
+   "ejaanLain": [
+    "Bawamenewi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bawaulu",
+   "nama": "Baŵaulu",
+   "ejaanLain": [
+    "Bawaulu"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bawo",
+   "nama": "Bawö",
+   "ejaanLain": [
+    "Bawo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bazikho",
+   "nama": "Bazikho",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "boha",
+   "nama": "Boha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bohalima",
+   "nama": "Bohalima",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "borohili",
+   "nama": "Böröhili",
+   "ejaanLain": [
+    "Borohili"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "boromezaya",
+   "nama": "Börömezaya",
+   "ejaanLain": [
+    "Boromezaya"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bowo",
+   "nama": "Böwo",
+   "ejaanLain": [
+    "Bowo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "buulolo",
+   "nama": "Bu'ulölö",
+   "ejaanLain": [
+    "Bu'ulolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "buaya",
+   "nama": "Buaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "buluaro",
+   "nama": "Bulu'aro",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "bunawolo",
+   "nama": "Bunaŵölö",
+   "ejaanLain": [
+    "Bunawolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dachi",
+   "nama": "Dachi",
+   "ejaanLain": [
+    "Dakhi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "daeli",
+   "nama": "Daeli",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dafulu",
+   "nama": "Dafulu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dandrosa",
+   "nama": "Dandrosa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dao",
+   "nama": "Dao",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "daru",
+   "nama": "Daru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dauwo",
+   "nama": "Dauwö",
+   "ejaanLain": [
+    "Dauwo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dawolo",
+   "nama": "Daŵölö",
+   "ejaanLain": [
+    "Dawolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "daya",
+   "nama": "Daya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "deloto",
+   "nama": "Delötö",
+   "ejaanLain": [
+    "Deloto"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dilalo",
+   "nama": "Dilalö",
+   "ejaanLain": [
+    "Dilalo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dohare",
+   "nama": "Dohare",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dohona",
+   "nama": "Dohöna",
+   "ejaanLain": [
+    "Dohona"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dohude",
+   "nama": "Dohude",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dolea",
+   "nama": "Dolea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "dowa",
+   "nama": "Döwa",
+   "ejaanLain": [
+    "Dowa"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "duha",
+   "nama": "Duha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "duru",
+   "nama": "Duru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "duwulani",
+   "nama": "Duwulani",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "faana",
+   "nama": "Fa'ana",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "fakho",
+   "nama": "Fakho",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "famaugu",
+   "nama": "Famaugu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "fanaetu",
+   "nama": "Fanaetu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "farasi",
+   "nama": "Farasi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "farokha",
+   "nama": "Farökha",
+   "ejaanLain": [
+    "Farokha"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "fatemaluo",
+   "nama": "Fatemaluo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "fawura",
+   "nama": "Fawura",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "finowaa",
+   "nama": "Finowa'a",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "fondrahi",
+   "nama": "Fondrahi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gafore",
+   "nama": "Gafore",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gaho",
+   "nama": "Gaho",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gamaino",
+   "nama": "Gamainö",
+   "ejaanLain": [
+    "Gamaino"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gamaro",
+   "nama": "Gamarö",
+   "ejaanLain": [
+    "Gamaro"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gamazu",
+   "nama": "Gamazu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gamofo",
+   "nama": "Gamöfö",
+   "ejaanLain": [
+    "Gamofo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ganumba",
+   "nama": "Ganumba",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "garamba",
+   "nama": "Garamba",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gari",
+   "nama": "Gari",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gaurifa",
+   "nama": "Gaurifa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gee",
+   "nama": "Ge'e",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gea",
+   "nama": "Gea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gehomo",
+   "nama": "Gehomo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "giawa",
+   "nama": "Giawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gohae",
+   "nama": "Gohae",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gori",
+   "nama": "Göri",
+   "ejaanLain": [
+    "Gori"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gowa",
+   "nama": "Gowa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gowasa",
+   "nama": "Goŵasa",
+   "ejaanLain": [
+    "Gowasa"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gulla",
+   "nama": "Gulla",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gulo",
+   "nama": "Gulö",
+   "ejaanLain": [
+    "Gulo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "halawa",
+   "nama": "Halawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "halu",
+   "nama": "Halu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "harefa",
+   "nama": "Harefa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "haria",
+   "nama": "Haria",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "harimao",
+   "nama": "Harimao",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "harita",
+   "nama": "Harita",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hawa",
+   "nama": "Hawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hendri",
+   "nama": "Hendri",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hia",
+   "nama": "Hia",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hinare",
+   "nama": "Hinare",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hondro",
+   "nama": "Hondrö",
+   "ejaanLain": [
+    "Hondro"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hulu",
+   "nama": "Hulu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "humendru",
+   "nama": "Humendru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "hura",
+   "nama": "Hura",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lafau",
+   "nama": "Lafau",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lahagu",
+   "nama": "Lahagu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lahu",
+   "nama": "Lahu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "laia",
+   "nama": "Laia",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lalu",
+   "nama": "Lalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "laoli",
+   "nama": "Laoli",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "laowo",
+   "nama": "Laoŵö",
+   "ejaanLain": [
+    "Laowo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "larosa",
+   "nama": "Larosa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lase",
+   "nama": "Lase",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "laso",
+   "nama": "Laso",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lature",
+   "nama": "Lature",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lauwo",
+   "nama": "Lauwö",
+   "ejaanLain": [
+    "Lauwo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lawolo",
+   "nama": "Laŵölö",
+   "ejaanLain": [
+    "Lawolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lazira",
+   "nama": "Lazira",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "limbu",
+   "nama": "Limbu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "loi",
+   "nama": "Lö'i",
+   "ejaanLain": [
+    "Lo'i"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lombu",
+   "nama": "Lömbu",
+   "ejaanLain": [
+    "Lombu"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lowalani",
+   "nama": "Lowalani",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "luaha",
+   "nama": "Luaha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "luahambowo",
+   "nama": "Luahamboŵo",
+   "ejaanLain": [
+    "Luahambowo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "lugu",
+   "nama": "Lugu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "luo",
+   "nama": "Luo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "mauwu",
+   "nama": "Ma'uwu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "maduwu",
+   "nama": "Maduŵu",
+   "ejaanLain": [
+    "Maduwu"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "manao",
+   "nama": "Manaö",
+   "ejaanLain": [
+    "Manao"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "manaraja",
+   "nama": "Manaraja",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "mangiwadano",
+   "nama": "Mangiwadanö",
+   "ejaanLain": [
+    "Mangiwadano"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "maruao",
+   "nama": "Maru'ao",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "maruhawa",
+   "nama": "Maruhawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "marunduri",
+   "nama": "Marunduri",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "maruabaya",
+   "nama": "Maru’Abaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "marulafau",
+   "nama": "Maru’Lafau",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "mazulai",
+   "nama": "Mazulai",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "mendrofa",
+   "nama": "Mendröfa",
+   "ejaanLain": [
+    "Mendrofa"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "meziwa",
+   "nama": "Meziwa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "moho",
+   "nama": "Möhö",
+   "ejaanLain": [
+    "Moho"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "mola",
+   "nama": "Mola",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nauru",
+   "nama": "Na'uru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nache",
+   "nama": "Nache",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nadoya",
+   "nama": "Nadoya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nahono",
+   "nama": "Nahönö",
+   "ejaanLain": [
+    "Nahono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nakhe",
+   "nama": "Nakhe",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "namo",
+   "nama": "Namö",
+   "ejaanLain": [
+    "Namo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "namolo",
+   "nama": "Namölö",
+   "ejaanLain": [
+    "Namolo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nanehe",
+   "nama": "Nanehe",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "naya",
+   "nama": "Naya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nazara",
+   "nama": "Nazara",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ndraha",
+   "nama": "Ndraha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ndruru",
+   "nama": "Ndruru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nehe",
+   "nama": "Nehe",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "nene",
+   "nama": "Nene",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "owasaluo",
+   "nama": "Owasaluo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "polem",
+   "nama": "Polem",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sabuanafulu",
+   "nama": "Sabuanafulu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sadumba",
+   "nama": "Sadumba",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saoiago",
+   "nama": "Sao'iagö",
+   "ejaanLain": [
+    "Sao'iago"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saota",
+   "nama": "Saota",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sarahono",
+   "nama": "Sarahönö",
+   "ejaanLain": [
+    "Sarahono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sarumaha",
+   "nama": "Sarumaha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saufala",
+   "nama": "Saufala",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "siowasa",
+   "nama": "Si'owasa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "siawa",
+   "nama": "Siawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sibaa",
+   "nama": "Siba'a",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sifalaete",
+   "nama": "Sifalaete",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sihura",
+   "nama": "Sihura",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sisobaene",
+   "nama": "Sisobaene",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "siwaahe",
+   "nama": "Siwa'ahe",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "siwanahono",
+   "nama": "Siwanahönö",
+   "ejaanLain": [
+    "Siwanahono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "siyawa",
+   "nama": "Siyawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "solokhoi",
+   "nama": "Solokhoi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tabalihili",
+   "nama": "Tabalihili",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tafonao",
+   "nama": "Taföna'ö",
+   "ejaanLain": [
+    "Tafona'o"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "talunohi",
+   "nama": "Talunohi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "telaumbanua",
+   "nama": "Telaumbanua",
+   "ejaanLain": [
+    "Delau"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "waha",
+   "nama": "Waha",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wahuwusa",
+   "nama": "Wahuwusa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wakho",
+   "nama": "Ŵakho",
+   "ejaanLain": [
+    "Wakho"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wandru",
+   "nama": "Wandru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wao",
+   "nama": "Waö",
+   "ejaanLain": [
+    "Wao"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "waoma",
+   "nama": "Ŵaoma",
+   "ejaanLain": [
+    "Waoma"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "warae",
+   "nama": "Warae",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "warai",
+   "nama": "Ŵarai",
+   "ejaanLain": [
+    "Warai"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "warasi",
+   "nama": "Ŵarasi",
+   "ejaanLain": [
+    "Warasi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "warokha",
+   "nama": "Warökha",
+   "ejaanLain": [
+    "Warokha"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "waruwu",
+   "nama": "Ŵaruwu",
+   "ejaanLain": [
+    "Waruwu"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wate",
+   "nama": "Ŵate",
+   "ejaanLain": [
+    "Wate"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wau",
+   "nama": "Wau",
+   "ejaanLain": [
+    "Fau",
+    "Wa'u"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "waya",
+   "nama": "Ŵaya",
+   "ejaanLain": [
+    "Waya"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wea",
+   "nama": "Wea",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "wehalo",
+   "nama": "Wehalö",
+   "ejaanLain": [
+    "Wehalo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "were",
+   "nama": "Were",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "yafetali",
+   "nama": "Yafetali",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "yafeti",
+   "nama": "Yafeti",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "yawazihono",
+   "nama": "Yawazihönö",
+   "ejaanLain": [
+    "Yawazihono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zaboloani",
+   "nama": "Zabölö'ani",
+   "ejaanLain": [
+    "Zabolo'ani"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zago",
+   "nama": "Zagö",
+   "ejaanLain": [
+    "Zago"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zagoto",
+   "nama": "Zagötö",
+   "ejaanLain": [
+    "Zagoto"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zahuwa",
+   "nama": "Zahuwa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zai",
+   "nama": "Zai",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zalukhu",
+   "nama": "Zalukhu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zamago",
+   "nama": "Zamago",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zamasi",
+   "nama": "Zamasi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zamili",
+   "nama": "Zamili",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zamono",
+   "nama": "Zamöno",
+   "ejaanLain": [
+    "Zamono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zandroto",
+   "nama": "Zandroto",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zebua",
+   "nama": "Zebua",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zega",
+   "nama": "Zega",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zendrato",
+   "nama": "Zendratö",
+   "ejaanLain": [
+    "Zendrato"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ziawa",
+   "nama": "Ziawa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zidomi",
+   "nama": "Zidömi",
+   "ejaanLain": [
+    "Zidomi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zihono",
+   "nama": "Zihönö",
+   "ejaanLain": [
+    "Zihono"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zikhamo",
+   "nama": "Zikhamö",
+   "ejaanLain": [
+    "Zikhamo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ziliwu",
+   "nama": "Ziliŵu",
+   "ejaanLain": [
+    "Ziliwu"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zimali",
+   "nama": "Zimali",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zina",
+   "nama": "Zina",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ziraluo",
+   "nama": "Ziraluo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zolobo",
+   "nama": "Zolobö",
+   "ejaanLain": [
+    "Zolobo"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "zoromi",
+   "nama": "Zörömi",
+   "ejaanLain": [
+    "Zoromi"
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ikatan": [],
+ "istilah": [
+  {
+   "jalur": "F",
+   "sapaan": "Ama",
+   "catatan": "Bapak, ayah. Sumber lain mencatat ama juga dipakai untuk kerabat ayah dan ayah mertua.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "M",
+   "sapaan": "Ina",
+   "catatan": "Ibu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "S",
+   "sapaan": "Ono",
+   "catatan": "Anak (laki-laki maupun perempuan).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "D",
+   "sapaan": "Ono",
+   "catatan": "Anak (laki-laki maupun perempuan).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "WF",
+   "sapaan": "Ama matua",
+   "catatan": "Bapak mertua (suami berbicara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "HF",
+   "sapaan": "Ama matua",
+   "catatan": "Bapak mertua (istri berbicara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "WM",
+   "sapaan": "Ina matua",
+   "catatan": "Ibu mertua (suami berbicara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "HM",
+   "sapaan": "Ina matua",
+   "catatan": "Ibu mertua (istri berbicara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "aturan": [
+  {
+   "id": "semado",
+   "tipe": "larangan",
+   "kondisi": {
+    "kelompokSama": true
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Adat Nias menganut eksogami mado: mado berfungsi membatasi jodoh, sehingga pasangan semado umumnya dihindari. Satu sumber menyebut perkawinan semarga dapat dibolehkan bila hubungannya sudah melewati 10 keturunan; ketentuan ini dapat berbeda antar daerah dan keluarga.",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sepupu",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "FBD",
+     "FZD",
+     "MBD",
+     "MZD"
+    ]
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Calon wanita adalah sepupu calon pria (anak saudara ayah atau ibu). Menurut satu sumber tentang syarat pernikahan adat Nias, sepupu dari pihak ibu maupun ayah tidak boleh dinikahi; ketentuan ini dapat berbeda antar daerah.",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sedarah-uu-perkawinan",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "M",
+     "FM",
+     "MM",
+     "FFM",
+     "FMM",
+     "MFM",
+     "MMM",
+     "D",
+     "SD",
+     "DD",
+     "SSD",
+     "SDD",
+     "DSD",
+     "DDD",
+     "Z",
+     "FZ",
+     "MZ",
+     "FFZ",
+     "FMZ",
+     "MFZ",
+     "MMZ"
+    ]
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Perkawinan dilarang antara dua orang yang berhubungan darah dalam garis lurus ke atas atau ke bawah (orang tua, kakek atau nenek, anak, cucu), antara saudara, antara seseorang dengan saudara orang tuanya, dan antara seseorang dengan saudara neneknya (UU Perkawinan Pasal 8). Hubungan sedarah dekat juga tidak dianjurkan dalam adat.",
+   "sumber": [
+    "Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 8 huruf a dan b, https://jdih.setkab.go.id/PUUdoc/4050/uu0011974.pdf, diakses 2026-11-12"
+   ]
+  }
+ ],
+ "kamus": [
+  {
+   "kata": "Ya'ahowu",
+   "arti": "Salam khas Nias: ya'a 'semoga' dan howu 'berkat', jadi 'semoga diberkati'. Dibalas dengan salam yang sama.",
+   "kategori": "Sapaan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Ya'ahowu' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Yaahowu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ama",
+   "arti": "Bapak, ayah.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "kata": "Ina",
+   "arti": "Ibu.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "kata": "Ono",
+   "arti": "Anak, keturunan.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)",
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ono Niha",
+   "arti": "Sebutan orang Nias untuk diri mereka: ono 'anak, keturunan' dan niha 'manusia'.",
+   "kategori": "Umum",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tanö Niha",
+   "arti": "Sebutan orang Nias untuk Pulau Nias: tanö 'tanah'.",
+   "kategori": "Umum",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Mado",
+   "arti": "Klen besar menurut garis ayah, dapat disamakan dengan marga pada suku Batak. Disebut juga gana.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18",
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sangambato Sebua",
+   "arti": "Keluarga luas virilokal; gabungan beberapa sangambato dari satu leluhur disebut mado.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Fondrakö",
+   "arti": "Sebutan umum hukum adat tradisional Nias.",
+   "kategori": "Adat",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ama matua",
+   "arti": "Bapak mertua.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ina matua",
+   "arti": "Ibu mertua.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sibaya",
+   "arti": "Paman.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Faelöwa",
+   "arti": "Acara pernikahan.",
+   "kategori": "Pernikahan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Mangowalu",
+   "arti": "Menikah.",
+   "kategori": "Pernikahan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18",
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Marafule",
+   "arti": "Pengantin laki-laki.",
+   "kategori": "Pernikahan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ono nihalö",
+   "arti": "Pengantin perempuan.",
+   "kategori": "Pernikahan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Famaigi niha",
+   "arti": "Pencarian jodoh, tahap awal pernikahan.",
+   "kategori": "Pernikahan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Omo hada",
+   "arti": "Rumah adat.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Fahombo",
+   "arti": "Lompat batu.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Maena",
+   "arti": "Tari berkelompok.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Fangowai",
+   "arti": "Tari penyambutan tamu.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tome",
+   "arti": "Tamu undangan (juga: dome).",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sowatö",
+   "arti": "Tuan rumah.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "budaya": [
+  {
+   "id": "mado",
+   "judul": "Mado",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Klen besar menurut garis ayah yang menjadi pembatas jodoh pada orang Nias.",
+   "isi": [
+    "Orang Nias menyebut diri Ono Niha. Kekerabatannya patrilineal: dihitung lewat garis laki-laki, dan setelah menikah umumnya menetap di lingkungan keluarga pria.",
+    "Keluarga luas disebut sangambato sebua. Gabungan beberapa sangambato dari satu leluhur disebut mado atau gana, yang dapat disamakan dengan marga pada suku Batak.",
+    "Fungsi mado adalah mengatur pembatasan jodoh: adat Nias menganut eksogami mado, tetapi menurut satu sumber berlaku dalam batas-batas tertentu.",
+    "Menurut Wikipedia, mado umumnya berasal dari kampung asal. Daftar mado sangat banyak dan ejaannya berbeda antar sumber serta antar daerah."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Daftar mado Nias' (CC BY-SA 4.0; mengutip Lase 2011 dan Schröder 1917), https://id.wikipedia.org/wiki/Daftar_mado_Nias, diakses 2026-11-18",
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "syarat-pernikahan",
+   "judul": "Syarat pernikahan adat",
+   "kategori": "Pernikahan",
+   "ringkasan": "Enam syarat pernikahan adat Nias menurut satu sumber.",
+   "isi": [
+    "Satu skripsi tentang pernikahan adat Nias (mengutip Sitorus 2015) menyebut enam syarat. Sumber ini hanya satu dan dapat berbeda dengan kebiasaan di daerah atau keluarga tertentu.",
+    "Harus seagama.",
+    "Tidak boleh menikahi sepupu, baik dari pihak ibu maupun pihak ayah.",
+    "Boleh menikah dengan yang semarga dengan syarat hubungan sudah melewati 10 keturunan.",
+    "Pihak keluarga laki-laki mampu memenuhi jujuran yang ditetapkan keluarga pihak perempuan.",
+    "Kedua mempelai berkepribadian baik dan tidak memiliki riwayat keluarga yang buruk secara turun-temurun.",
+    "Bersedia menjalankan seluruh upacara adat pernikahan. Prosesnya dimulai dari famaigi niha (pencarian jodoh), yang melibatkan orang tua, paman (sibaya), dan kerabat dekat."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan, Bab I Pendahuluan (mengutip Sitorus 2015:3 tentang pernikahan adat Nias), https://digilib.unimed.ac.id/id/eprint/23651/9/8.%20NIM.%203123122041%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "istilah-pernikahan",
+   "judul": "Istilah pernikahan",
+   "kategori": "Pernikahan",
+   "ringkasan": "Kata-kata yang sering muncul dalam acara pernikahan Nias.",
+   "isi": [
+    "Faelöwa: acara pernikahan. Mangowalu: menikah. Marafule: pengantin laki-laki. Ono nihalö: pengantin perempuan.",
+    "Ama matua dan ina matua: bapak dan ibu mertua. Sibaya: paman.",
+    "Tome atau dome: tamu undangan. Sowatö: tuan rumah."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Nias' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Nias, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ucapan": [
+  {
+   "id": "yaahowu-umum",
+   "teks": "Ya'ahowu, {nama}! Selamat ulang tahun. Semoga sehat dan diberkati selalu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Ya'ahowu' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Yaahowu, diakses 2026-11-18"
+   ]
+  }
+ ]
+}

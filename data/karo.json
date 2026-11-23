@@ -1,0 +1,1505 @@
+{
+ "id": "karo",
+ "nama": "Karo",
+ "rumpun": "batak",
+ "labelKelompok": "merga",
+ "versiData": 1,
+ "fiktif": false,
+ "divalidasi": false,
+ "daerahVarian": [],
+ "marga": [
+  {
+   "id": "ginting",
+   "nama": "Ginting",
+   "keyakinan": "bervariasi",
+   "catatan": "Satu dari lima merga induk (Merga Silima). Daftar cabang (submerga) berbeda antar sumber.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingajartambun",
+   "nama": "Ginting Ajartambun",
+   "indukId": "ginting",
+   "asal": "Tersebar di Rajamerahe",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingbabo",
+   "nama": "Ginting Babo",
+   "indukId": "ginting",
+   "asal": "Tersebar di Gurubenua, Munte, Kutagerat",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingberas",
+   "nama": "Ginting Beras",
+   "indukId": "ginting",
+   "asal": "Tersebar di Laupetundal",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingcapah",
+   "nama": "Ginting Capah",
+   "ejaanLain": [
+    "Cabap"
+   ],
+   "indukId": "ginting",
+   "asal": "Tersebar di Bukit, Kalang",
+   "catatan": "detikSumut mengeja 'Cabap' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintinggaramata",
+   "nama": "Ginting Garamata",
+   "indukId": "ginting",
+   "asal": "Tersebar di Raja Tengah, Tongging",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintinggurupatih",
+   "nama": "Ginting Gurupatih",
+   "indukId": "ginting",
+   "asal": "Tersebar di Buluh Naman, Sarimunte, Naga, Lau Kapur",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingjandibata",
+   "nama": "Ginting Jandibata",
+   "indukId": "ginting",
+   "asal": "Tersebar di Juhar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingjawak",
+   "nama": "Ginting Jawak",
+   "indukId": "ginting",
+   "asal": "Tersebar di Cingkes",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingmanik",
+   "nama": "Ginting Manik",
+   "indukId": "ginting",
+   "asal": "Tersebar di Tongging, Lingga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingmunte",
+   "nama": "Ginting Munte",
+   "indukId": "ginting",
+   "asal": "Tersebar di Kutabangun, Kuta Buara, Kuala, Ajinembah, Kubu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingpase",
+   "nama": "Ginting Pase",
+   "indukId": "ginting",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingseragih",
+   "nama": "Ginting Seragih",
+   "indukId": "ginting",
+   "asal": "Tersebar di Lingga Julu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingsigeratlembu",
+   "nama": "Ginting Sigerat Lembu",
+   "indukId": "ginting",
+   "asal": "Tersebar di Juhar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingsinusinga",
+   "nama": "Ginting Sinusinga",
+   "indukId": "ginting",
+   "asal": "Tersebar di Singa",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingsugihen",
+   "nama": "Ginting Sugihen",
+   "indukId": "ginting",
+   "asal": "Tersebar di Sugihen, Juhar, Kutagunung",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingsuka",
+   "nama": "Ginting Suka",
+   "indukId": "ginting",
+   "asal": "Tersebar di Suka Karo",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "gintingtumangger",
+   "nama": "Ginting Tumangger",
+   "indukId": "ginting",
+   "asal": "Tersebar di Kidupen, Kemkem",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokaro",
+   "nama": "Karo-karo",
+   "ejaanLain": [
+    "Karokaro",
+    "Karo-Karo"
+   ],
+   "keyakinan": "bervariasi",
+   "catatan": "Satu dari lima merga induk (Merga Silima). Daftar cabang (submerga) berbeda antar sumber.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarobarus",
+   "nama": "Karo-karo Barus",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Barus Jahe, Pitu Kuta",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarobukit",
+   "nama": "Karo-karo Bukit",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Bukit, Buluh Awar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarogurusinga",
+   "nama": "Karo-karo Gurusinga",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Gurusinga, Rajaberneh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarojung",
+   "nama": "Karo-karo Jung",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Kutanangka, Kalang, Perbesi, Batukarang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarokaban",
+   "nama": "Karo-karo Kaban",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Pernantin, Kabantua, Bintang Meriah, Buluh Naman",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarokacaribu",
+   "nama": "Karo-karo Kacaribu",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Kutagerat, Kerapat",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarokarosekali",
+   "nama": "Karo-karo Karo Sekali",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Seberaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarokemit",
+   "nama": "Karo-karo Kemit",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Kuta Bale",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokaroketaren",
+   "nama": "Karo-karo Ketaren",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Raya, Ketaren Sibolangit, Pertampilen",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokaromanik",
+   "nama": "Karo-karo Manik",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Buluh Duri",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokaropurba",
+   "nama": "Karo-karo Purba",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Kabanjahe, Berastagi, Lau Cih",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosamura",
+   "nama": "Karo-karo Samura",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Samura",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosinubulan",
+   "nama": "Karo-karo Sinubulan",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Bulan Jahe, Bulan Julu, Pertumbuken",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosinuhaji",
+   "nama": "Karo-karo Sinuhaji",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Aji Jahe, Aji Julu, Aju Buhara, Aji Mbelang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosinukaban",
+   "nama": "Karo-karo Sinukaban",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Kaban, Sumbul",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosinulingga",
+   "nama": "Karo-karo Sinulingga",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Lingga, Bintang Meriah, Gunung Merlawan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosinuraya",
+   "nama": "Karo-karo Sinuraya",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Bunuraya, Singgamanik, Kandibata",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarositepu",
+   "nama": "Karo-karo Sitepu",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Naman, Sukanalu, Berastepu, Kuta Tengah Langkat",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarosurbakti",
+   "nama": "Karo-karo Surbakti",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Surbakti, Jumaraja, Kutalimbaru, Pancur Batu, Merdeka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "karokarotorong",
+   "nama": "Karo-karo Torong",
+   "indukId": "karokaro",
+   "asal": "Tersebar di Torong",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginangin",
+   "nama": "Perangin-angin",
+   "ejaanLain": [
+    "Peranginangin",
+    "Perangin angin"
+   ],
+   "keyakinan": "bervariasi",
+   "catatan": "Satu dari lima merga induk (Merga Silima). Daftar cabang (submerga) berbeda antar sumber.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginbangun",
+   "nama": "Perangin-angin Bangun",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Batukarang",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginbenjerang",
+   "nama": "Perangin-angin Benjerang",
+   "ejaanLain": [
+    "Manjerang"
+   ],
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Batukarang",
+   "catatan": "detikSumut mengeja 'Manjerang' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginkacinambun",
+   "nama": "Perangin-angin Kacinambun",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Kacinambun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginkeliat",
+   "nama": "Perangin-angin Keliat",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Mardinding",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginlaksa",
+   "nama": "Perangin-angin Laksa",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Juhar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginlimbeng",
+   "nama": "Perangin-angin Limbeng",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Kuta Jurung, Biru-Biru, Deli Serdang, Langkat",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginmano",
+   "nama": "Perangin-angin Mano",
+   "ejaanLain": [
+    "Nano"
+   ],
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Pergendangen",
+   "catatan": "detikSumut mengeja 'Nano' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginnamohaji",
+   "nama": "Perangin-angin Namohaji",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Kutabuluh",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginpencawan",
+   "nama": "Perangin-angin Pencawan",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Perbesi",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginpenggarus",
+   "nama": "Perangin-angin Penggarus",
+   "ejaanLain": [
+    "Panggarun"
+   ],
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Susuk",
+   "catatan": "detikSumut mengeja 'Panggarun' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginperbesi",
+   "nama": "Perangin-angin Perbesi",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Seberaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginpinem",
+   "nama": "Perangin-angin Pinem",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Serintono",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginsebayang",
+   "nama": "Perangin-angin Sebayang",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Perbesi, Kuala, dan gunung",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginsingarimbun",
+   "nama": "Perangin-angin Singarimbun",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Mardinding, Kutambaru, Temburun",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginsinurat",
+   "nama": "Perangin-angin Sinurat",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Kerenda",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginsukatendel",
+   "nama": "Perangin-angin Sukatendel",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Sukatendel",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginangintanjung",
+   "nama": "Perangin-angin Tanjung",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Penampen, Berastepu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginulunjandi",
+   "nama": "Perangin-angin Ulunjandi",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Juhar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "peranginanginuwir",
+   "nama": "Perangin-angin Uwir",
+   "indukId": "peranginangin",
+   "asal": "Tersebar di Singgamanik",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiring",
+   "nama": "Sembiring",
+   "keyakinan": "bervariasi",
+   "catatan": "Satu dari lima merga induk (Merga Silima). Daftar cabang (submerga) berbeda antar sumber.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringbrahmana",
+   "nama": "Sembiring Brahmana",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Kabanjahe, Perbesi, Limang",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringbunuhaji",
+   "nama": "Sembiring Bunuhaji",
+   "ejaanLain": [
+    "Bunuaji"
+   ],
+   "indukId": "sembiring",
+   "asal": "Tersebar di Sukatepu, Kutatonggal, Beganding",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring. detikSumut mengeja 'Bunuaji' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringbusuk",
+   "nama": "Sembiring Busuk",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Kidupen, Lau Perimbon",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringcolia",
+   "nama": "Sembiring Colia",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Kubucolia, Seberaya",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringdepari",
+   "nama": "Sembiring Depari",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Seberaya, Perbesi, Munthe, Bekancan",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringgurukinayan",
+   "nama": "Sembiring Gurukinayan",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Gurukinayan",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringkeling",
+   "nama": "Sembiring Keling",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Juhar, Rajatengah",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringkeloko",
+   "nama": "Sembiring Keloko",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Pergendangen",
+   "catatan": "Menurut sumber, kelompok Sembiring 'siman biang': tidak biasa kawin dengan cabang Sembiring lainnya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringkembaren",
+   "nama": "Sembiring Kembaren",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Cerumbu, Kuta Pengkih, Kuta Kuta Mbelin, Sampe Raya, Sungkun Berita",
+   "catatan": "Menurut sumber, kelompok Sembiring 'siman biang': tidak biasa kawin dengan cabang Sembiring lainnya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringmaha",
+   "nama": "Sembiring Maha",
+   "indukId": "sembiring",
+   "keyakinan": "bervariasi",
+   "catatan": "Hanya tercatat di satu sumber (detikSumut).",
+   "sumber": [
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringmeliala",
+   "nama": "Sembiring Meliala",
+   "ejaanLain": [
+    "Milala"
+   ],
+   "indukId": "sembiring",
+   "asal": "Tersebar di Sarinembah, Munte Rajaberneh, Kedupen, Kabanjahe, Naman",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring. detikSumut mengeja 'Milala' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringmuham",
+   "nama": "Sembiring Muham",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Susuk, Perbesi",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringpandebayang",
+   "nama": "Sembiring Pandebayang",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Buluh Naman, Gurusinga",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringpandia",
+   "nama": "Sembiring Pandia",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Seberaya, Payung, Beganding",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringpelawi",
+   "nama": "Sembiring Pelawi",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Ajijahe, Perbaji, Kandibata, Hamparan Perak",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringsinukapar",
+   "nama": "Sembiring Sinukapar",
+   "ejaanLain": [
+    "Sinukapur"
+   ],
+   "indukId": "sembiring",
+   "asal": "Tersebar di Pertumbuken, Sidikalang",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring. detikSumut mengeja 'Sinukapur' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringsinulaki",
+   "nama": "Sembiring Sinulaki",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Silalahi",
+   "catatan": "Menurut sumber, kelompok Sembiring 'siman biang': tidak biasa kawin dengan cabang Sembiring lainnya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringsinupayung",
+   "nama": "Sembiring Sinupayung",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Juma Raja, Negeri",
+   "catatan": "Menurut sumber, kelompok Sembiring 'siman biang': tidak biasa kawin dengan cabang Sembiring lainnya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sembiringtekang",
+   "nama": "Sembiring Tekang",
+   "indukId": "sembiring",
+   "asal": "Tersebar di Kaban",
+   "catatan": "Menurut sumber, kelompok Sembiring 'simantangken biang': ada perkawinan antar cabang Sembiring.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigan",
+   "nama": "Tarigan",
+   "keyakinan": "bervariasi",
+   "catatan": "Satu dari lima merga induk (Merga Silima). Daftar cabang (submerga) berbeda antar sumber.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tariganbondong",
+   "nama": "Tarigan Bondong",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Lingga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tariganganagana",
+   "nama": "Tarigan Ganagana",
+   "ejaanLain": [
+    "Gana-gana"
+   ],
+   "indukId": "tarigan",
+   "asal": "Tersebar di Batukarang",
+   "catatan": "detikSumut mengeja 'Gana-gana' (diduga cabang yang sama).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigangerneng",
+   "nama": "Tarigan Gerneng",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Cingkes",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigangersang",
+   "nama": "Tarigan Gersang",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Nagasaribu, Berastepu, Puangaja Sibolangit",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tariganjampang",
+   "nama": "Tarigan Jampang",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Pergendangen",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tariganpekan",
+   "nama": "Tarigan Pekan",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Sukanalu",
+   "catatan": "Keterangan sumber: Cabang dari Tambak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tariganpurba",
+   "nama": "Tarigan Purba",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Purba",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigansibero",
+   "nama": "Tarigan Sibero",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Juhar, Kutaraja, Keriahen, Munte, Tanjung Beringin",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigansilangit",
+   "nama": "Tarigan Silangit",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Gunung Meriah",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantambak",
+   "nama": "Tarigan Tambak",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Kebayaken, Sukanalu",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantambun",
+   "nama": "Tarigan Tambun",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Rakutbesi, Binangara, Sinaman dll",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantanjungbunga",
+   "nama": "Tarigan Tanjung Bunga",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Juhar",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantegur",
+   "nama": "Tarigan Tegur",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Suka",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantendang",
+   "nama": "Tarigan Tendang",
+   "indukId": "tarigan",
+   "keyakinan": "bervariasi",
+   "catatan": "Hanya tercatat di satu sumber (detikSumut).",
+   "sumber": [
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tarigantua",
+   "nama": "Tarigan Tua",
+   "indukId": "tarigan",
+   "asal": "Tersebar di Pergendangen, Talimbaru",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ikatan": [
+  {
+   "kelompokA": "sembiringtekang",
+   "kelompokB": "karokarosinulingga",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ],
+   "deskripsi": "Dalam adat Karo disebut sejandi: perjanjian untuk tidak saling mengambil atau tidak menikah antar merga."
+  },
+  {
+   "kelompokA": "karokarositepu",
+   "kelompokB": "peranginanginsebayang",
+   "jenis": "padan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ],
+   "deskripsi": "Dalam adat Karo disebut sejandi: perjanjian untuk tidak saling mengambil atau tidak menikah antar merga."
+  }
+ ],
+ "istilah": [
+  {
+   "jalur": "F",
+   "sapaan": "Bapa",
+   "catatan": "Bapak, ayah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "M",
+   "sapaan": "Nande",
+   "catatan": "Ibu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "jalur": "Z",
+   "sapaan": "Turang",
+   "catatan": "Menurut sumber, turang dipakai antara laki-laki dan perempuan yang semerga atau seberu (bersaudara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Turang",
+   "catatan": "Menurut sumber, turang dipakai antara laki-laki dan perempuan yang semerga atau seberu (bersaudara).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   }
+  },
+  {
+   "jalur": "MBD",
+   "sapaan": "Impal",
+   "catatan": "Anak perempuan saudara laki-laki ibu. Sumber menyebut impal sebagai pasangan tutur yang paling cocok untuk menikah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "FZS",
+   "sapaan": "Impal",
+   "catatan": "Anak laki-laki saudara perempuan ayah (hubungan impal berlaku timbal balik).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MB",
+   "sapaan": "Kalimbubu",
+   "varian": [
+    "Kalimbubu simada dareh"
+   ],
+   "catatan": "Saudara laki-laki ibu, termasuk pihak pemberi istri (kalimbubu). Sapaan sehari-hari tidak terdapat di sumber yang dibaca.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "ZS",
+   "sapaan": "Anak beru",
+   "varian": [
+    "Anak beru cekoh baka tutup",
+    "Bere-bere mama"
+   ],
+   "catatan": "Anak saudara perempuan, disapa laki-laki. Sumber menyebutnya anak beru cekoh baka tutup.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "ZD",
+   "sapaan": "Anak beru",
+   "varian": [
+    "Anak beru cekoh baka tutup",
+    "Bere-bere mama"
+   ],
+   "catatan": "Anak saudara perempuan, disapa laki-laki. Sumber menyebutnya anak beru cekoh baka tutup.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  }
+ ],
+ "aturan": [
+  {
+   "id": "semerga",
+   "tipe": "larangan",
+   "kondisi": {
+    "indukSama": true
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Pria dan wanita yang semerga (satu dari lima merga induk, termasuk submerganya) dilarang menikah menurut adat Karo. Sumber mencatat pengecualian: cabang-cabang Sembiring kelompok 'simantangken biang' dan sebagian Perangin-angin dengan Sebayang dapat saling menikah, sedangkan Sembiring kelompok 'siman biang' tidak.",
+   "sumber": [
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18",
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "padan",
+   "tipe": "larangan",
+   "kondisi": {
+    "ikatan": "padan"
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Kedua merga terikat sejandi (perjanjian tidak saling mengambil istri), sehingga pria dan wanitanya tidak menikah.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "impal",
+   "tipe": "anjuran",
+   "kondisi": {
+    "jalur": [
+     "MBD"
+    ]
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Calon wanita adalah impal calon pria (anak perempuan saudara laki-laki ibu). Menurut sumber, impal dipandang sebagai pasangan yang paling cocok menurut adat Karo.",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sedarah-uu-perkawinan",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "M",
+     "FM",
+     "MM",
+     "FFM",
+     "FMM",
+     "MFM",
+     "MMM",
+     "D",
+     "SD",
+     "DD",
+     "SSD",
+     "SDD",
+     "DSD",
+     "DDD",
+     "Z",
+     "FZ",
+     "MZ",
+     "FFZ",
+     "FMZ",
+     "MFZ",
+     "MMZ"
+    ]
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Perkawinan dilarang antara dua orang yang berhubungan darah dalam garis lurus ke atas atau ke bawah (orang tua, kakek atau nenek, anak, cucu), antara saudara, antara seseorang dengan saudara orang tuanya, dan antara seseorang dengan saudara neneknya (UU Perkawinan Pasal 8). Hubungan sedarah dekat juga tidak dianjurkan dalam adat.",
+   "sumber": [
+    "Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 8 huruf a dan b, https://jdih.setkab.go.id/PUUdoc/4050/uu0011974.pdf, diakses 2026-11-12"
+   ]
+  }
+ ],
+ "kamus": [
+  {
+   "kata": "Mejuah-juah",
+   "arti": "Salam khas Karo; berarti mujur, sejahtera, sehat. Dipakai sebagai sapaan dan perpisahan.",
+   "kategori": "Sapaan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Mejuah-juah' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Mejuah-juah, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Nande",
+   "arti": "Ibu.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "kata": "Bapa",
+   "arti": "Bapak, ayah.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Novita, S., dan Widayanti, D. Kekerabatan Kosa Kata Bahasa Karo, Bahasa Nias, dan Bahasa Simalungun di Kota Medan: Kajian Linguistik Historis Komparatif. Universitas Sumatera Utara, https://jurnal.unimed.ac.id/2012/index.php/bahas/article/view/16672 (daftar Swadesh)"
+   ]
+  },
+  {
+   "kata": "Merga",
+   "arti": "Kelompok kekerabatan menurut garis ayah, sebutan untuk laki-laki. Untuk perempuan disebut beru.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Beru",
+   "arti": "Merga bagi perempuan. Beru ibu menjadi bere-bere bagi anak-anaknya.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Bere-bere",
+   "arti": "Beru ibu, yang menjadi identitas asal ibu bagi anak-anaknya.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Binuang",
+   "arti": "Bere-bere ayah, dilihat dari anak.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Kempu",
+   "arti": "Bere-bere ibu, dilihat dari anak (juga disebut perkempun).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Kampah",
+   "arti": "Bere-bere kakek dari pihak ayah, dilihat dari cucu.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Soler",
+   "arti": "Bere-bere kakek dari pihak ibu, dilihat dari cucu.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ertutur",
+   "arti": "Berkenalan lewat merga dan bere-bere untuk menarik garis kekerabatan (orat tutur).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Orat tutur",
+   "arti": "Garis atau panggilan kekerabatan yang diperoleh lewat ertutur.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Senina",
+   "arti": "Saudara karena merga dan submerga yang sama.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sembuyak",
+   "arti": "Harfiah 'satu kandungan'; dalam praktik dipakai juga untuk senina yang berlainan submerga.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Turang",
+   "arti": "Sebutan antara laki-laki dan perempuan yang semerga atau seberu (bersaudara).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Impal",
+   "arti": "Kerabat yang menurut sumber dipandang pasangan paling cocok untuk menikah: bere-bere satu pihak sama dengan beru pihak lain.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Kalimbubu",
+   "arti": "Keluarga pemberi istri; sangat dihormati dan dipandang pembawa berkat.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Anak beru",
+   "arti": "Keluarga pengambil istri; bertugas mengatur dan menyiapkan acara adat kalimbubunya.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Puang kalimbubu",
+   "arti": "Kalimbubu dari kalimbubu seseorang.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Rakut sitelu",
+   "arti": "Ikatan yang tiga: kalimbubu, senina atau sembuyak, dan anak beru. Disebut juga sangkep nggeluh dan daliken sitelu.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tutur siwaluh",
+   "arti": "Delapan golongan kekerabatan Karo.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Merga silima",
+   "arti": "Lima merga induk Karo: Karo-karo, Ginting, Tarigan, Sembiring, Perangin-angin.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "budaya": [
+  {
+   "id": "merga-silima",
+   "judul": "Merga silima, beru, dan bere-bere",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Lima merga induk Karo, dan bagaimana merga ayah serta beru ibu menentukan hubungan.",
+   "isi": [
+    "Orang Karo bermerga menurut ayah: merga untuk laki-laki, beru untuk perempuan. Merga disandang di belakang nama.",
+    "Ada lima merga induk (merga silima): Karo-karo, Ginting, Tarigan, Sembiring, dan Perangin-angin. Masing-masing punya banyak cabang (submerga). Jumlah dan ejaan cabang berbeda antar sumber.",
+    "Beru ibu menjadi bere-bere bagi anak. Bere-bere ayah menjadi binuang, bere-bere ibu menjadi kempu, bere-bere kakek dari ayah menjadi kampah, dan bere-bere kakek dari ibu menjadi soler.",
+    "Menurut sumber, pernikahan satu merga sangat tidak diperbolehkan. Sumber yang sama mencatat pengecualian pada sebagian cabang Sembiring dan Perangin-angin, serta ikatan sejandi antar merga tertentu."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Marga Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Marga_Karo, diakses 2026-11-18",
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18",
+    "Tarigan, E. A. (7 Apr 2026). Mengenal Sistem Marga di Suku Karo. detikSumut, https://www.detik.com/sumut/budaya/d-8433868/mengenal-sistem-marga-di-suku-karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "ertutur",
+   "judul": "Ertutur",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Berkenalan lewat merga dan bere-bere untuk mengetahui kedudukan masing-masing.",
+   "isi": [
+    "Ertutur adalah kegiatan berkenalan untuk menarik garis kekerabatan (orat tutur) antar sesama orang Karo. Yang ditanyakan: merga atau beru, bere-bere, keturunan, dan kampung asal.",
+    "Setelah merga dan bere-bere diketahui, kedudukan seseorang terhadap yang lain menjadi jelas, sehingga kekayaan, umur, atau jabatan tidak menjadi tolok ukur.",
+    "Bentuk tutur paling sederhana: laki-laki dan perempuan yang semerga atau seberu disebut turang; yang bere-berenya sama dengan beru pihak lain disebut impal, pasangan tutur yang dipandang paling cocok untuk menikah."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "'Tradisi Ertutur dan Kekerabatan pada Masyarakat Batak Karo sebagai Identitas' (Bab II karya ilmiah; penulis tidak tercantum pada berkas), https://eprints2.undip.ac.id/28758/3/Bab%202.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "rakut-sitelu",
+   "judul": "Rakut sitelu",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Tiga ikatan kekerabatan Karo: kalimbubu, senina atau sembuyak, dan anak beru.",
+   "isi": [
+    "Rakut sitelu berarti 'ikatan yang tiga', disebut juga daliken sitelu (tungku yang tiga) atau sangkep nggeluh (kelengkapan hidup). Sistem ini hampir serupa dengan Dalihan Na Tolu pada Batak Toba.",
+    "Kalimbubu: keluarga pemberi istri, sangat dihormati dan dipandang pembawa berkat. Dalam jamuan, kalimbubu didahulukan.",
+    "Senina dan sembuyak: saudara semerga atau yang bersaudara lewat ibu atau istri; berperan memimpin pembicaraan dalam musyawarah.",
+    "Anak beru: keluarga pengambil istri; bertugas mengatur jalannya musyawarah, menyiapkan hidangan dan peralatan pesta, serta menjadi juru damai bagi kalimbubunya.",
+    "Setiap orang Karo dapat berperan sebagai kalimbubu, senina, atau anak beru, tergantung situasi dan acaranya."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tutur-siwaluh",
+   "judul": "Tutur siwaluh",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Delapan golongan kekerabatan Karo dalam penuturan.",
+   "isi": [
+    "Tutur siwaluh terdiri dari delapan golongan: puang kalimbubu, kalimbubu, senina, sembuyak, senina sipemeren, senina sepengalon atau sedalanen, anak beru, dan anak beru menteri.",
+    "Golongan ini dapat dibagi lagi sesuai keperluan upacara, misalnya kalimbubu bena-bena (kalimbubu tua), kalimbubu simada dareh (dari pihak ibu kandung), dan anak beru tua.",
+    "Sumber-sumber memakai pembagian dan nama yang sedikit berbeda, jadi rincian tiap golongan dapat berbeda antar daerah dan penulis."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Karo' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Karo, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Rakut Sitelu' (CC BY-SA 4.0; mengutip Ginting 2008, Bangun 1989 dan 1986), https://id.wikipedia.org/wiki/Rakut_Sitelu, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ucapan": [
+  {
+   "id": "mejuah-umum",
+   "teks": "Mejuah-juah, {nama}! Selamat ulang tahun. Semoga sehat dan sejahtera selalu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Mejuah-juah' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Mejuah-juah, diakses 2026-11-18"
+   ]
+  }
+ ]
+}

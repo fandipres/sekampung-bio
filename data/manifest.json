@@ -5,6 +5,21 @@
    "versi": 8,
    "berkas": "batak-toba.json",
    "sha256": "5da41ad003b9fc8163d27c06e739f0c93888bbadc33c29f23fb6ff8532798580"
+  },
+  "karo": {
+   "versi": 1,
+   "berkas": "karo.json",
+   "sha256": "21723585a8dd6671f6ef05c8e40b192524fa3dee95450acb3b5633e025f409df"
+  },
+  "nias": {
+   "versi": 1,
+   "berkas": "nias.json",
+   "sha256": "f14b2fbf16822a2753ea8c858d8545f467a32ab8db3d80150e52fe704a88e7b9"
+  },
+  "simalungun": {
+   "versi": 1,
+   "berkas": "simalungun.json",
+   "sha256": "fcef3a4005822a1fa98193b2b629f37171b9debde4dab01db191376cc13e682c"
   }
  }
 }

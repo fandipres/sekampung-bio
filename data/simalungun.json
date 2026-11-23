@@ -1,0 +1,2047 @@
+{
+ "id": "simalungun",
+ "nama": "Simalungun",
+ "rumpun": "batak",
+ "labelKelompok": "marga",
+ "versiData": 1,
+ "fiktif": false,
+ "divalidasi": false,
+ "daerahVarian": [],
+ "marga": [
+  {
+   "id": "damanik",
+   "nama": "Damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Menurut sumber, salah satu dari empat marga pokok Simalungun (Sisadapur); marga raja Nagur, disebut sebagai marga asli penduduk Simalungun.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikambarita",
+   "nama": "Damanik Ambarita",
+   "ejaanLain": [
+    "Ambarita"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikbahbolag",
+   "nama": "Damanik Bah Bolag",
+   "ejaanLain": [
+    "Bah Bolag",
+    "Bah Bolak",
+    "Damanik Bah Bolak"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikbariba",
+   "nama": "Damanik Bariba",
+   "ejaanLain": [
+    "Bariba"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikbarotbot",
+   "nama": "Damanik Barotbot",
+   "ejaanLain": [
+    "Barotbot",
+    "Barobbot",
+    "Damanik Barobbot"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikbayu",
+   "nama": "Damanik Bayu",
+   "ejaanLain": [
+    "Bayu"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikgurning",
+   "nama": "Damanik Gurning",
+   "ejaanLain": [
+    "Gurning"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikhajangan",
+   "nama": "Damanik Hajangan",
+   "ejaanLain": [
+    "Hajangan"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikholing",
+   "nama": "Damanik Holing",
+   "ejaanLain": [
+    "Holing"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniklimbong",
+   "nama": "Damanik Limbong",
+   "ejaanLain": [
+    "Limbong"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikmalau",
+   "nama": "Damanik Malau",
+   "ejaanLain": [
+    "Malau"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikmalayu",
+   "nama": "Damanik Malayu",
+   "ejaanLain": [
+    "Malayu"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikmanik",
+   "nama": "Damanik Manik",
+   "ejaanLain": [
+    "Manik"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniknagur",
+   "nama": "Damanik Nagur",
+   "ejaanLain": [
+    "Nagur"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikpasei",
+   "nama": "Damanik Pasei",
+   "ejaanLain": [
+    "Pasei"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikrampogos",
+   "nama": "Damanik Rampogos",
+   "ejaanLain": [
+    "Rampogos",
+    "Rappogos",
+    "Damanik Rappogos"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikrih",
+   "nama": "Damanik Rih",
+   "ejaanLain": [
+    "Rih"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniksagala",
+   "nama": "Damanik Sagala",
+   "ejaanLain": [
+    "Sagala"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniksarasan",
+   "nama": "Damanik Sarasan",
+   "ejaanLain": [
+    "Sarasan"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniksimaringga",
+   "nama": "Damanik Simaringga",
+   "ejaanLain": [
+    "Simaringga",
+    "Maringga",
+    "Damanik Maringga"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniksola",
+   "nama": "Damanik Sola",
+   "ejaanLain": [
+    "Sola"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damaniktomok",
+   "nama": "Damanik Tomok",
+   "ejaanLain": [
+    "Tomok",
+    "Tomog",
+    "Damanik Tomog"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "damanikusang",
+   "nama": "Damanik Usang",
+   "ejaanLain": [
+    "Usang"
+   ],
+   "indukId": "damanik",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Damanik (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purba",
+   "nama": "Purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Menurut sumber, salah satu dari empat marga pokok Simalungun (Sisadapur); berasal dari Raja Banua Purba.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbagirsang",
+   "nama": "Purba Girsang",
+   "ejaanLain": [
+    "Girsang"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbamanorsa",
+   "nama": "Purba Manorsa",
+   "ejaanLain": [
+    "Manorsa",
+    "Simanorsa",
+    "Purba Simanorsa"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbapakpak",
+   "nama": "Purba Pakpak",
+   "ejaanLain": [
+    "Pakpak",
+    "Dapakpak",
+    "Purba Dapakpak"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbaraya",
+   "nama": "Purba Raya",
+   "ejaanLain": [
+    "Raya"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasiboro",
+   "nama": "Purba Siboro",
+   "ejaanLain": [
+    "Siboro"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasidadolog",
+   "nama": "Purba Sidadolog",
+   "ejaanLain": [
+    "Sidadolog",
+    "Sidadolok",
+    "Purba Sidadolok"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasidagambir",
+   "nama": "Purba Sidagambir",
+   "ejaanLain": [
+    "Sidagambir",
+    "Sidagabbir",
+    "Purba Sidagabbir"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasidasuha",
+   "nama": "Purba Sidasuha",
+   "ejaanLain": [
+    "Sidasuha",
+    "Dasuha",
+    "Purba Dasuha"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasigumonrong",
+   "nama": "Purba Sigumonrong",
+   "ejaanLain": [
+    "Sigumonrong",
+    "Sigumondrong",
+    "Purba Sigumondrong"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasihala",
+   "nama": "Purba Sihala",
+   "ejaanLain": [
+    "Sihala"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbasilangit",
+   "nama": "Purba Silangit",
+   "ejaanLain": [
+    "Silangit"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbatambak",
+   "nama": "Purba Tambak",
+   "ejaanLain": [
+    "Tambak"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbatambunsaribu",
+   "nama": "Purba Tambun Saribu",
+   "ejaanLain": [
+    "Tambun Saribu"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbatanjung",
+   "nama": "Purba Tanjung",
+   "ejaanLain": [
+    "Tanjung"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbatondang",
+   "nama": "Purba Tondang",
+   "ejaanLain": [
+    "Tondang",
+    "Tendang",
+    "Purba Tendang"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "purbatua",
+   "nama": "Purba Tua",
+   "ejaanLain": [
+    "Tua"
+   ],
+   "indukId": "purba",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Purba (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragih",
+   "nama": "Saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Menurut sumber, salah satu dari empat marga pokok Simalungun (Sisadapur); berasal dari Raja Banua Sobou. Kata saragih dari 'simada ragih' (pemilik aturan).",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihdabahou",
+   "nama": "Saragih Dabahou",
+   "ejaanLain": [
+    "Dabahou"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihdamuntei",
+   "nama": "Saragih Damuntei",
+   "ejaanLain": [
+    "Damuntei",
+    "Damunthei",
+    "Saragih Damunthei"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihgaringging",
+   "nama": "Saragih Garingging",
+   "ejaanLain": [
+    "Garingging"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihmunte",
+   "nama": "Saragih Munte",
+   "ejaanLain": [
+    "Munte"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihnadeak",
+   "nama": "Saragih Nadeak",
+   "ejaanLain": [
+    "Nadeak"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihnapitu",
+   "nama": "Saragih Napitu",
+   "ejaanLain": [
+    "Napitu"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihparmata",
+   "nama": "Saragih Parmata",
+   "ejaanLain": [
+    "Parmata",
+    "Permata",
+    "Saragih Permata"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihrumahorbo",
+   "nama": "Saragih Rumahorbo",
+   "ejaanLain": [
+    "Rumahorbo"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsiadari",
+   "nama": "Saragih Siadari",
+   "ejaanLain": [
+    "Siadari"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsiallagan",
+   "nama": "Saragih Siallagan",
+   "ejaanLain": [
+    "Siallagan"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsiambaton",
+   "nama": "Saragih Siambaton",
+   "ejaanLain": [
+    "Siambaton"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidabalok",
+   "nama": "Saragih Sidabalok",
+   "ejaanLain": [
+    "Sidabalok"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidabuhit",
+   "nama": "Saragih Sidabuhit",
+   "ejaanLain": [
+    "Sidabuhit",
+    "Dabuhit",
+    "Saragih Dabuhit"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidabukke",
+   "nama": "Saragih Sidabukke",
+   "ejaanLain": [
+    "Sidabukke"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidabutar",
+   "nama": "Saragih Sidabutar",
+   "ejaanLain": [
+    "Sidabutar"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidajawak",
+   "nama": "Saragih Sidajawak",
+   "ejaanLain": [
+    "Sidajawak",
+    "Dajawak",
+    "Saragih Dajawak"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidapulou",
+   "nama": "Saragih Sidapulou",
+   "ejaanLain": [
+    "Sidapulou",
+    "Dapulou",
+    "Saragih Dapulou"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidasalak",
+   "nama": "Saragih Sidasalak",
+   "ejaanLain": [
+    "Sidasalak",
+    "Dasalak",
+    "Saragih Dasalak"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsidauruk",
+   "nama": "Saragih Sidauruk",
+   "ejaanLain": [
+    "Sidauruk"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsigalingging",
+   "nama": "Saragih Sigalingging",
+   "ejaanLain": [
+    "Sigalingging"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsijabat",
+   "nama": "Saragih Sijabat",
+   "ejaanLain": [
+    "Sijabat"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsilampuyang",
+   "nama": "Saragih Silampuyang",
+   "ejaanLain": [
+    "Silampuyang"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsimanihuruk",
+   "nama": "Saragih Simanihuruk",
+   "ejaanLain": [
+    "Simanihuruk"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsimarmata",
+   "nama": "Saragih Simarmata",
+   "ejaanLain": [
+    "Simarmata"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsimaronggang",
+   "nama": "Saragih Simaronggang",
+   "ejaanLain": [
+    "Simaronggang"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsipoldas",
+   "nama": "Saragih Sipoldas",
+   "ejaanLain": [
+    "Sipoldas"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsitio",
+   "nama": "Saragih Sitio",
+   "ejaanLain": [
+    "Sitio"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihsumbayak",
+   "nama": "Saragih Sumbayak",
+   "ejaanLain": [
+    "Sumbayak"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihtamba",
+   "nama": "Saragih Tamba",
+   "ejaanLain": [
+    "Tamba"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "saragihturnip",
+   "nama": "Saragih Turnip",
+   "ejaanLain": [
+    "Turnip"
+   ],
+   "indukId": "saragih",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Saragih (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinaga",
+   "nama": "Sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Menurut sumber, salah satu dari empat marga pokok Simalungun (Sisadapur); berasal dari Raja Saniang Naga.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagadadihoyong",
+   "nama": "Sinaga Dadihoyong",
+   "ejaanLain": [
+    "Dadihoyong",
+    "Nadihoyong",
+    "Sinaga Nadihoyong"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagadadihoyongbodat",
+   "nama": "Sinaga Dadihoyong Bodat",
+   "ejaanLain": [
+    "Dadihoyong Bodat",
+    "Nadihoyong Bodat",
+    "Sinaga Nadihoyong Bodat"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagadadihoyonghataran",
+   "nama": "Sinaga Dadihoyong Hataran",
+   "ejaanLain": [
+    "Dadihoyong Hataran",
+    "Nadihoyong Hataran",
+    "Sinaga Nadihoyong Hataran"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagalingga",
+   "nama": "Sinaga Lingga",
+   "ejaanLain": [
+    "Lingga"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagaporti",
+   "nama": "Sinaga Porti",
+   "ejaanLain": [
+    "Porti"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidabariba",
+   "nama": "Sinaga Sidabariba",
+   "ejaanLain": [
+    "Sidabariba",
+    "Sibariba",
+    "Sinaga Sibariba"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidahapintu",
+   "nama": "Sinaga Sidahapintu",
+   "ejaanLain": [
+    "Sidahapintu",
+    "Sidahapittu",
+    "Sinaga Sidahapittu"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidaharo",
+   "nama": "Sinaga Sidaharo",
+   "ejaanLain": [
+    "Sidaharo",
+    "Daharo",
+    "Sinaga Daharo"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidahombang",
+   "nama": "Sinaga Sidahombang",
+   "ejaanLain": [
+    "Sidahombang",
+    "Sinahombang",
+    "Sinaga Sinahombang"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidallogan",
+   "nama": "Sinaga Sidallogan",
+   "ejaanLain": [
+    "Sidallogan",
+    "Sinallogan",
+    "Sinaga Sinallogan"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasidasuhut",
+   "nama": "Sinaga Sidasuhut",
+   "ejaanLain": [
+    "Sidasuhut",
+    "Dasuhut",
+    "Sinaga Dasuhut"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasihaloho",
+   "nama": "Sinaga Sihaloho",
+   "ejaanLain": [
+    "Sihaloho"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasilalahi",
+   "nama": "Sinaga Silalahi",
+   "ejaanLain": [
+    "Silalahi"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasimaibang",
+   "nama": "Sinaga Simaibang",
+   "ejaanLain": [
+    "Simaibang"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasimandalahi",
+   "nama": "Sinaga Simandalahi",
+   "ejaanLain": [
+    "Simandalahi"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasimanjorang",
+   "nama": "Sinaga Simanjorang",
+   "ejaanLain": [
+    "Simanjorang"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasinurat",
+   "nama": "Sinaga Sinurat",
+   "ejaanLain": [
+    "Sinurat"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasipayung",
+   "nama": "Sinaga Sipayung",
+   "ejaanLain": [
+    "Sipayung"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasirait",
+   "nama": "Sinaga Sirait",
+   "ejaanLain": [
+    "Sirait"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasitopu",
+   "nama": "Sinaga Sitopu",
+   "ejaanLain": [
+    "Sitopu"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagasitungkir",
+   "nama": "Sinaga Situngkir",
+   "ejaanLain": [
+    "Situngkir"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sinagaurug",
+   "nama": "Sinaga Urug",
+   "ejaanLain": [
+    "Urug"
+   ],
+   "indukId": "sinaga",
+   "keyakinan": "bervariasi",
+   "catatan": "Tercatat di bawah marga pokok Sinaga (daftar marga asimilasi). Menurut sumber, sebagian marga dalam daftar itu bergabung karena persaudaraan, perjanjian, atau kerja sama.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ikatan": [],
+ "istilah": [
+  {
+   "jalur": "F",
+   "sapaan": "Bapa",
+   "varian": [
+    "Amang"
+   ],
+   "catatan": "Panggilan kepada ayah; biasanya Bapak atau bapa.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "M",
+   "sapaan": "Inang",
+   "catatan": "Panggilan kepada ibu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "FF",
+   "sapaan": "Ompung doli",
+   "varian": [
+    "Oppung doli"
+   ],
+   "catatan": "Kakek (ayah dari ayah atau ayah dari ibu).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MF",
+   "sapaan": "Ompung doli",
+   "varian": [
+    "Oppung doli"
+   ],
+   "catatan": "Kakek (ayah dari ayah atau ayah dari ibu).",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "FM",
+   "sapaan": "Inang tutua",
+   "catatan": "Nenek (ibu dari ayah atau ibu dari ibu). Di Batak Toba disebut ompung boru.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MM",
+   "sapaan": "Inang tutua",
+   "catatan": "Nenek (ibu dari ayah atau ibu dari ibu). Di Batak Toba disebut ompung boru.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Abang",
+   "varian": [
+    "Angkang"
+   ],
+   "catatan": "Saudara laki-laki yang lahir lebih dulu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihTua"
+   }
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Anggi",
+   "catatan": "Adik laki-laki.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L",
+    "usiaLawan": "lebihMuda"
+   }
+  },
+  {
+   "jalur": "B",
+   "sapaan": "Botou",
+   "catatan": "Saudara laki-laki, disapa perempuan.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   }
+  },
+  {
+   "jalur": "Z",
+   "sapaan": "Botou",
+   "catatan": "Saudara perempuan, disapa laki-laki.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "FB",
+   "sapaan": "Bapa tua",
+   "varian": [
+    "Bapa godang"
+   ],
+   "catatan": "Abang ayah. Bapa tua: yang paling tua; bapa godang: yang lebih tua dari ayah (di beberapa tempat juga disebut bapa tua). Saudara ayah yang di tengah disebut bapa tongah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   }
+  },
+  {
+   "jalur": "FB",
+   "sapaan": "Bapa gian",
+   "varian": [
+    "Bapa anggi"
+   ],
+   "catatan": "Adik ayah, terutama yang paling bungsu. Yang di tengah disebut bapa tongah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   }
+  },
+  {
+   "jalur": "FBW",
+   "sapaan": "Inang godang",
+   "catatan": "Istri bapa godang. Istri bapa tongah disebut inang tongah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihTua"
+   }
+  },
+  {
+   "jalur": "FBW",
+   "sapaan": "Inang gian",
+   "varian": [
+    "Inang anggi"
+   ],
+   "catatan": "Istri bapa gian atau bapa anggi.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "usiaLawan": "lebihMuda"
+   }
+  },
+  {
+   "jalur": "FZ",
+   "sapaan": "Namboru",
+   "varian": [
+    "Amboru",
+    "Bou"
+   ],
+   "catatan": "Saudara perempuan ayah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "FZH",
+   "sapaan": "Amangboru",
+   "varian": [
+    "Mangkela"
+   ],
+   "catatan": "Suami saudara perempuan ayah.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MB",
+   "sapaan": "Tulang",
+   "catatan": "Saudara laki-laki ibu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MBW",
+   "sapaan": "Nantulang",
+   "varian": [
+    "Anturang"
+   ],
+   "catatan": "Istri tulang.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "SW",
+   "sapaan": "Parumaen",
+   "varian": [
+    "Parmaen"
+   ],
+   "catatan": "Istri dari anak.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "DH",
+   "sapaan": "Hela",
+   "catatan": "Suami dari anak perempuan.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "SS",
+   "sapaan": "Pahompu",
+   "varian": [
+    "Pahoppu"
+   ],
+   "catatan": "Cucu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "SD",
+   "sapaan": "Pahompu",
+   "varian": [
+    "Pahoppu"
+   ],
+   "catatan": "Cucu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "DS",
+   "sapaan": "Pahompu",
+   "varian": [
+    "Pahoppu"
+   ],
+   "catatan": "Cucu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "DD",
+   "sapaan": "Pahompu",
+   "varian": [
+    "Pahoppu"
+   ],
+   "catatan": "Cucu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "MBD",
+   "sapaan": "Pariban",
+   "catatan": "Bagi laki-laki: anak perempuan tulang.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "FZS",
+   "sapaan": "Pariban",
+   "catatan": "Bagi perempuan: anak laki-laki amboru atau namboru.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   }
+  },
+  {
+   "jalur": "FZS",
+   "sapaan": "Lawei",
+   "catatan": "Panggilan laki-laki kepada putra amboru atau bou.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "ZH",
+   "sapaan": "Lawei",
+   "catatan": "Hubungan laki-laki dengan suami dari saudara perempuannya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "L"
+   }
+  },
+  {
+   "jalur": "BW",
+   "sapaan": "Gawei",
+   "catatan": "Hubungan perempuan dengan istri saudara laki-lakinya.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ],
+   "kondisi": {
+    "jenisKelaminPembicara": "P"
+   }
+  },
+  {
+   "jalur": "ZS",
+   "sapaan": "Panogolan",
+   "catatan": "Anak laki-laki atau perempuan dari saudara perempuan.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "jalur": "ZD",
+   "sapaan": "Panogolan",
+   "catatan": "Anak laki-laki atau perempuan dari saudara perempuan.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  }
+ ],
+ "aturan": [
+  {
+   "id": "semarga",
+   "tipe": "larangan",
+   "kondisi": {
+    "kelompokSama": true
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Pria dan wanita yang semarga dipandang bersaudara seketurunan sehingga dipantangkan (tidak boleh) saling menikah menurut adat Simalungun.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "satu-marga-pokok",
+   "tipe": "catatan",
+   "kondisi": {
+    "indukSama": true,
+    "kelompokSama": false
+   },
+   "keyakinan": "bervariasi",
+   "penjelasan": "Kedua marga tercatat bernaung di bawah satu marga pokok (Saragih, Purba, Damanik, atau Sinaga). Sumber menyebut sebagian marga itu bergabung karena persaudaraan, perjanjian, atau kerja sama, tetapi tidak merinci apakah larangan semarga berlaku antar marga di bawah satu marga pokok. Tanyakan kepada orang tua atau tokoh adat.",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "sedarah-uu-perkawinan",
+   "tipe": "larangan",
+   "kondisi": {
+    "jalur": [
+     "M",
+     "FM",
+     "MM",
+     "FFM",
+     "FMM",
+     "MFM",
+     "MMM",
+     "D",
+     "SD",
+     "DD",
+     "SSD",
+     "SDD",
+     "DSD",
+     "DDD",
+     "Z",
+     "FZ",
+     "MZ",
+     "FFZ",
+     "FMZ",
+     "MFZ",
+     "MMZ"
+    ]
+   },
+   "keyakinan": "umum",
+   "penjelasan": "Perkawinan dilarang antara dua orang yang berhubungan darah dalam garis lurus ke atas atau ke bawah (orang tua, kakek atau nenek, anak, cucu), antara saudara, antara seseorang dengan saudara orang tuanya, dan antara seseorang dengan saudara neneknya (UU Perkawinan Pasal 8). Hubungan sedarah dekat juga tidak dianjurkan dalam adat.",
+   "sumber": [
+    "Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 8 huruf a dan b, https://jdih.setkab.go.id/PUUdoc/4050/uu0011974.pdf, diakses 2026-11-12"
+   ]
+  }
+ ],
+ "kamus": [
+  {
+   "kata": "Horas",
+   "arti": "Kata sapaan Batak yang berarti syukur, bahagia, dan sehat; dipakai sebagai salam dan perpisahan.",
+   "kategori": "Sapaan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia, 'Horas' (kata sapaan Batak), https://en.wikipedia.org/wiki/Horas, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Partuturan",
+   "arti": "Sistem sebutan kekerabatan untuk menentukan hubungan keluarga (pardihadihaon), terutama dalam acara adat.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Hasusuran",
+   "arti": "Tempat asal nenek moyang; salah satu penentu partuturan Simalungun.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sisadapur",
+   "arti": "Akronim empat marga pokok Simalungun: Sinaga, Saragih, Damanik, Purba.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Morga",
+   "arti": "Marga, dipakai di belakang nama; pada perempuan didahului kata boru.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Boru",
+   "arti": "Anak perempuan; marga perempuan disebut sesudah kata boru (mis. Sofia boru Saragih). Juga sebutan kelompok pihak penerima istri.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tondong",
+   "arti": "Kelompok kerabat istri, pemberi istri; yang dihormati dalam acara adat (paman).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Sanina",
+   "arti": "Saudara satu keturunan atau marga (juga: saudara satu ayah atau ibu).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Anak boru",
+   "arti": "Pihak ipar, penerima istri.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tondong ni tondong",
+   "arti": "Kelompok pemberi istri kepada paman (tondong).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Anak boru mintori",
+   "arti": "Kelompok boru dari ipar (anak boru dari anak boru).",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tolu sahundulan",
+   "arti": "Tiga kelompok kerabat (tondong, sanina, anak boru) menurut pengaturan tempat duduk dalam adat.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Lima saodoran",
+   "arti": "Lima kelompok kerabat yang hadir pada upacara besar: tondong, sanina, anak boru, tondong ni tondong, anak boru mintori.",
+   "kategori": "Kekerabatan",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Bapa",
+   "arti": "Ayah; panggilan biasanya Bapak atau bapa.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Inang",
+   "arti": "Ibu.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Ompung doli",
+   "arti": "Kakek.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Inang tutua",
+   "arti": "Nenek.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Abang",
+   "arti": "Saudara laki-laki yang lebih tua (juga angkang).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Anggi",
+   "arti": "Adik laki-laki.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Botou",
+   "arti": "Saudara lawan jenis; juga panggilan umum kepada lawan jenis, dan lawan jenis yang semarga.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Namboru",
+   "arti": "Saudara perempuan ayah (juga amboru atau bou).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Amangboru",
+   "arti": "Suami saudara perempuan ayah (juga mangkela).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Tulang",
+   "arti": "Saudara laki-laki ibu.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Nantulang",
+   "arti": "Istri tulang (juga anturang).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Parumaen",
+   "arti": "Menantu perempuan (istri dari anak).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Hela",
+   "arti": "Menantu laki-laki (suami dari anak perempuan).",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Pahompu",
+   "arti": "Cucu.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Pariban",
+   "arti": "Bagi laki-laki: anak perempuan tulang. Bagi perempuan: anak laki-laki amboru atau namboru.",
+   "kategori": "Keluarga",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "kata": "Hiou",
+   "arti": "Kain tenun khas Simalungun, serupa ulos; dipakai dalam busana adat.",
+   "kategori": "Budaya",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "budaya": [
+  {
+   "id": "sisadapur",
+   "judul": "Sisadapur: empat marga pokok",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Sinaga, Saragih, Damanik, dan Purba, serta marga-marga yang bergabung.",
+   "isi": [
+    "Marga asli Simalungun ada empat, diberi akronim Sisadapur: Sinaga, Saragih, Damanik, dan Purba. Marga-marga ini berasal dari marga raja-raja di tanah Simalungun.",
+    "Satu sumber menyebut Damanik sebagai marga asli penduduk, dan Saragih, Sinaga, serta Purba sebagai marga pendatang yang kemudian bersama menjadi empat marga utama. Keempatnya disebut hasil harungguan bolon, musyawarah besar empat raja untuk tidak saling menyerang.",
+    "Perbauran dengan daerah sekitar (Samosir, Toba, Dairi, Pakpak Bharat, Karo, Humbang Hasundutan) menimbulkan banyak marga lain. Pada zaman kerajaan, pendatang yang tidak jelas garis keturunannya menyatukan diri dengan marga raja agar mendapat hak hidup, sehingga marga-marga itu dikelompokkan ke bawah salah satu dari empat marga pokok.",
+    "Setelah kerajaan dihapus pada 1946 sampai 1947, aturan pengelompokan itu hilang dengan sendirinya dan marga-marga kembali ke marga aslinya. Karena itu daftar di aplikasi dapat berbeda dengan yang dikenal di keluarga Anda."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "marga-dan-boru",
+   "judul": "Marga, boru, dan larangan semarga",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Marga turun dari ayah; sesama marga dipandang bersaudara.",
+   "isi": [
+    "Simalungun menganut sistem patrilineal: marga diturunkan lewat ayah kepada anak laki-laki dan perempuan.",
+    "Dua orang yang semarga saling dianggap saudara seketurunan sehingga tidak boleh menikah.",
+    "Pada perempuan, marga disebut sesudah kata boru (br.). Sofia yang lahir dari ayah bermarga Saragih disebut Sofia boru Saragih. Bila ia menikah dengan pria bermarga Purba, ia biasanya memakai marga suami di namanya: Sofia Purba boru Saragih."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Marga Simalungun' (CC BY-SA 4.0; mengutip GKPS 1983 dan Dasuha 2006), https://id.wikipedia.org/wiki/Marga_Simalungun, diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "tolu-sahundulan",
+   "judul": "Tolu sahundulan dan lima saodoran",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Dasar kekerabatan Simalungun: tondong, sanina, dan anak boru.",
+   "isi": [
+    "Menurut satu sumber, sistem kekerabatan Simalungun berdasar pada tolu sahundulan dan lima saodoran. Tolu sahundulan berarti tiga kelompok menurut pengaturan tempat duduk dalam adat: tondong (kelompok kerabat istri, pemberi istri), sanina (saudara satu keturunan atau marga), dan anak boru (pihak ipar, penerima istri).",
+    "Lima saodoran muncul pada upacara besar yang dihadiri lima kelompok: tondong, sanina, anak boru, tondong ni tondong (kelompok pemberi istri kepada paman), dan anak boru mintori (kelompok boru dari ipar).",
+    "Tondong sangat dihormati dalam acara adat. Daftar lima kelompok sedikit berbeda antar sumber."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Skripsi Universitas Negeri Medan tentang tortor mangalo-alo tondong, Bab I Pendahuluan (2019), https://digilib.unimed.ac.id/37602/8/8.%20NIM.%203131122039%20CHAPTER%20I.pdf, diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18"
+   ]
+  },
+  {
+   "id": "partuturan-simalungun",
+   "judul": "Partuturan Simalungun",
+   "kategori": "Kekerabatan",
+   "ringkasan": "Cara menentukan hubungan kekerabatan, dari tempat asal hingga pernikahan.",
+   "isi": [
+    "Orang Simalungun tidak terlalu menekankan silsilah. Penentu partuturan awalnya adalah hasusuran (tempat asal nenek moyang) dan tibalni parhundul (kedudukan dalam acara adat). Karena itu saat bertemu orang bertanya 'hunja do hasusuran ni ham' (dari mana asal-usul Anda) dan bukan langsung marga.",
+    "Seiring bercampurnya marga, partuturan semakin ditentukan oleh partongah-jabuan (pernikahan) yang membentuk hubungan antar keluarga. Sebagian orang Simalungun juga memakai partuturan Batak Toba.",
+    "Partuturan dibagi tiga: tutur manorus (langsung), tutur holmouan (kelompok), dan tutur natipak (kehormatan, pengganti nama sebagai tanda hormat)."
+   ],
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia Indonesia, 'Partuturan (Batak Simalungun)' (CC BY-SA 4.0; mengutip Garingging dan Girsang 1975), https://id.wikipedia.org/wiki/Partuturan_(Batak_Simalungun), diakses 2026-11-18",
+    "Wikipedia Indonesia, 'Suku Batak Simalungun' (CC BY-SA 4.0), https://id.wikipedia.org/wiki/Suku_Batak_Simalungun, diakses 2026-11-18"
+   ]
+  }
+ ],
+ "ucapan": [
+  {
+   "id": "horas-umum",
+   "teks": "Horas, {nama}! Selamat ulang tahun. Semoga sehat dan diberkati selalu.",
+   "keyakinan": "bervariasi",
+   "sumber": [
+    "Wikipedia, 'Horas' (kata sapaan Batak), https://en.wikipedia.org/wiki/Horas, diakses 2026-11-18"
+   ]
+  }
+ ]
+}
